@@ -1,0 +1,636 @@
+transaction_id,date,time,vendor_id,vendor_name,department,payment_type,amount,description
+TXN000552,2026-05-01,07:24,V1002,Capitol IT Services LLC,Alcohol and Tobacco Tax and Trade Bureau,Check,13875.15,Recurring services / goods disbursement
+TXN000632,2026-05-01,07:42,V1004,National Office Supply Co,Bureau of the Fiscal Service,Check,9726.61,Program disbursement
+TXN000256,2026-05-01,08:01,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,6174.82,Recurring services / goods disbursement
+TXN000188,2026-05-01,11:54,V1010,Pioneer Facilities Maintenance,Office of Financial Stability,ACH,4701.08,Recurring services / goods disbursement
+TXN000391,2026-05-01,13:08,V1001,Meridian Facilities Group,Office of Financial Stability,ACH,7948.0,Recurring services / goods disbursement
+TXN000126,2026-05-01,13:28,V1003,BlueRiver Consulting,Financial Crimes Enforcement Network,Wire,28106.67,Recurring services / goods disbursement
+TXN000357,2026-05-01,18:13,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,ACH,6362.32,Recurring services / goods disbursement
+TXN000443,2026-05-01,18:13,V1007,Harbor Logistics Inc,Office of Financial Stability,Wire,4058.84,Recurring services / goods disbursement
+TXN000159,2026-05-04,07:20,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,Wire,8867.71,Recurring services / goods disbursement
+TXN000207,2026-05-04,09:17,V1005,Sterling Security Solutions,Community Development Financial Institutions Fund,Wire,8808.19,Recurring services / goods disbursement
+TXN000535,2026-05-04,11:03,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,Check,979.12,Recurring services / goods disbursement
+TXN000498,2026-05-04,12:51,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Wire,10190.83,Recurring services / goods disbursement
+TXN000523,2026-05-04,13:54,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,Check,48663.53,Recurring services / goods disbursement
+TXN000001,2026-05-04,18:17,V1002,Capitol IT Services LLC,Office of Financial Stability,ACH,9953.53,Recurring services / goods disbursement
+TXN000442,2026-05-04,18:39,V1007,Harbor Logistics Inc,Office of Financial Stability,Wire,3450.37,Recurring services / goods disbursement
+TXN000339,2026-05-05,07:19,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Check,6858.41,Recurring services / goods disbursement
+TXN000540,2026-05-05,08:03,V1008,Federal Print & Mail,Office of Financial Stability,Check,1047.02,Recurring services / goods disbursement
+TXN000064,2026-05-05,08:38,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Wire,11828.36,Recurring services / goods disbursement
+TXN000359,2026-05-05,11:26,V1008,Federal Print & Mail,Office of Financial Stability,ACH,2414.57,Recurring services / goods disbursement
+TXN000030,2026-05-05,12:04,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,ACH,5675.93,Recurring services / goods disbursement
+TXN000338,2026-05-05,13:50,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,ACH,57147.39,Recurring services / goods disbursement
+TXN000580,2026-05-05,13:56,V1007,Harbor Logistics Inc,Community Development Financial Institutions Fund,Check,2102.8,Recurring services / goods disbursement
+TXN000617,2026-05-05,15:12,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Wire,75265.04,One-time program disbursement
+TXN000503,2026-05-05,15:51,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,ACH,29481.09,Recurring services / goods disbursement
+TXN000365,2026-05-05,17:26,V1002,Capitol IT Services LLC,Financial Crimes Enforcement Network,ACH,11369.33,Recurring services / goods disbursement
+TXN000182,2026-05-05,18:23,V1005,Sterling Security Solutions,Office of Financial Stability,Wire,9557.57,Recurring services / goods disbursement
+TXN000314,2026-05-06,07:02,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Check,15993.85,Recurring services / goods disbursement
+TXN000502,2026-05-06,07:15,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Wire,6129.08,Recurring services / goods disbursement
+TXN000052,2026-05-06,07:21,V1005,Sterling Security Solutions,Office of Financial Stability,Check,13838.38,Recurring services / goods disbursement
+TXN000471,2026-05-06,08:40,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,ACH,4858.46,Recurring services / goods disbursement
+TXN000521,2026-05-06,10:53,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,2456.06,Recurring services / goods disbursement
+TXN000620,2026-05-06,11:18,V1003,BlueRiver Consulting,Financial Crimes Enforcement Network,Check,409422.31,One-time program disbursement
+TXN000330,2026-05-06,11:45,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,Wire,56580.43,Recurring services / goods disbursement
+TXN000101,2026-05-06,12:34,V1002,Capitol IT Services LLC,Alcohol and Tobacco Tax and Trade Bureau,Check,13187.99,Recurring services / goods disbursement
+TXN000218,2026-05-06,13:01,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,ACH,40173.85,Recurring services / goods disbursement
+TXN000527,2026-05-06,14:03,V1006,Apex Data Systems,Office of Financial Stability,Check,25160.47,Recurring services / goods disbursement
+TXN000631,2026-05-06,15:31,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,Wire,9972.2,Program disbursement
+TXN000009,2026-05-06,17:14,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,ACH,19974.45,Recurring services / goods disbursement
+TXN000505,2026-05-07,09:14,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,ACH,29035.67,Recurring services / goods disbursement
+TXN000258,2026-05-07,10:26,V1002,Capitol IT Services LLC,Financial Crimes Enforcement Network,Wire,8879.3,Recurring services / goods disbursement
+TXN000203,2026-05-07,11:38,V1007,Harbor Logistics Inc,Community Development Financial Institutions Fund,Wire,1593.68,Recurring services / goods disbursement
+TXN000561,2026-05-07,12:00,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,ACH,28254.73,Recurring services / goods disbursement
+TXN000094,2026-05-07,12:14,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,Check,9845.42,Recurring services / goods disbursement
+TXN000215,2026-05-08,07:13,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,5836.75,Recurring services / goods disbursement
+TXN000531,2026-05-08,08:17,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,ACH,1548.09,Recurring services / goods disbursement
+TXN000038,2026-05-08,09:24,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,Wire,2207.77,Recurring services / goods disbursement
+TXN000368,2026-05-08,09:32,V1004,National Office Supply Co,Community Development Financial Institutions Fund,ACH,1849.99,Recurring services / goods disbursement
+TXN000587,2026-05-08,10:02,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,ACH,2044.26,Recurring services / goods disbursement
+TXN000184,2026-05-08,13:17,V1006,Apex Data Systems,Office of Financial Stability,ACH,43215.38,Recurring services / goods disbursement
+TXN000034,2026-05-08,13:46,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,ACH,11481.19,Recurring services / goods disbursement
+TXN000355,2026-05-08,14:08,V1002,Capitol IT Services LLC,Financial Crimes Enforcement Network,Wire,14395.18,Recurring services / goods disbursement
+TXN000500,2026-05-08,14:54,V1006,Apex Data Systems,Financial Crimes Enforcement Network,ACH,22869.07,Recurring services / goods disbursement
+TXN000600,2026-05-08,16:25,V1004,National Office Supply Co,Community Development Financial Institutions Fund,Check,565.87,Recurring services / goods disbursement
+TXN000124,2026-05-08,16:47,V1010,Pioneer Facilities Maintenance,Bureau of the Fiscal Service,ACH,5127.58,Recurring services / goods disbursement
+TXN000347,2026-05-08,17:07,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,Wire,603.46,Recurring services / goods disbursement
+TXN000297,2026-05-11,07:41,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,Wire,7650.99,Recurring services / goods disbursement
+TXN000025,2026-05-11,08:46,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,ACH,6889.92,Recurring services / goods disbursement
+TXN000109,2026-05-11,10:46,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,Wire,1354.83,Recurring services / goods disbursement
+TXN000411,2026-05-11,11:09,V1002,Capitol IT Services LLC,Alcohol and Tobacco Tax and Trade Bureau,Check,18974.46,Recurring services / goods disbursement
+TXN000195,2026-05-11,12:38,V1008,Federal Print & Mail,Office of Financial Stability,ACH,815.48,Recurring services / goods disbursement
+TXN000474,2026-05-11,12:42,V1005,Sterling Security Solutions,Office of Financial Stability,ACH,9170.73,Recurring services / goods disbursement
+TXN000563,2026-05-11,14:54,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,Wire,12279.01,Recurring services / goods disbursement
+TXN000008,2026-05-11,15:18,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,Wire,3393.94,Recurring services / goods disbursement
+TXN000261,2026-05-11,15:23,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,Check,39483.69,Recurring services / goods disbursement
+TXN000567,2026-05-11,17:22,V1002,Capitol IT Services LLC,Financial Crimes Enforcement Network,Wire,21589.88,Recurring services / goods disbursement
+TXN000091,2026-05-11,17:27,V1001,Meridian Facilities Group,Office of Financial Stability,Wire,5163.16,Recurring services / goods disbursement
+TXN000288,2026-05-12,08:19,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,Check,24096.26,Recurring services / goods disbursement
+TXN000037,2026-05-12,10:10,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,Wire,6751.2,Recurring services / goods disbursement
+TXN000415,2026-05-12,12:35,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Check,7369.63,Recurring services / goods disbursement
+TXN000201,2026-05-12,13:06,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,ACH,15789.19,Recurring services / goods disbursement
+TXN000574,2026-05-12,13:35,V1002,Capitol IT Services LLC,Alcohol and Tobacco Tax and Trade Bureau,Check,12565.78,Recurring services / goods disbursement
+TXN000221,2026-05-12,13:54,V1006,Apex Data Systems,Bureau of the Fiscal Service,ACH,25248.68,Recurring services / goods disbursement
+TXN000185,2026-05-12,17:13,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,ACH,626.45,Recurring services / goods disbursement
+TXN000284,2026-05-12,17:54,V1008,Federal Print & Mail,Community Development Financial Institutions Fund,Check,1368.56,Recurring services / goods disbursement
+TXN000209,2026-05-12,18:33,V1001,Meridian Facilities Group,Office of Financial Stability,Wire,6425.11,Recurring services / goods disbursement
+TXN000560,2026-05-13,07:25,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Check,12718.84,Recurring services / goods disbursement
+TXN000046,2026-05-13,08:34,V1002,Capitol IT Services LLC,Office of Financial Stability,Check,11712.81,Recurring services / goods disbursement
+TXN000577,2026-05-13,08:36,V1010,Pioneer Facilities Maintenance,Bureau of the Fiscal Service,Wire,6337.38,Recurring services / goods disbursement
+TXN000344,2026-05-13,09:08,V1002,Capitol IT Services LLC,Alcohol and Tobacco Tax and Trade Bureau,Wire,21101.56,Recurring services / goods disbursement
+TXN000407,2026-05-13,13:14,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Wire,7407.39,Recurring services / goods disbursement
+TXN000524,2026-05-13,14:06,V1004,National Office Supply Co,Office of Financial Stability,ACH,322.72,Recurring services / goods disbursement
+TXN000605,2026-05-13,14:08,V1009,Cornerstone Legal Advisors,Community Development Financial Institutions Fund,Check,24559.3,Recurring services / goods disbursement
+TXN000438,2026-05-13,14:46,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,Wire,667.94,Recurring services / goods disbursement
+TXN000366,2026-05-13,16:02,V1002,Capitol IT Services LLC,Alcohol and Tobacco Tax and Trade Bureau,Check,17408.33,Recurring services / goods disbursement
+TXN000158,2026-05-13,17:45,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,Wire,1832.19,Recurring services / goods disbursement
+TXN000334,2026-05-13,17:49,V1008,Federal Print & Mail,Office of Financial Stability,ACH,2911.3,Recurring services / goods disbursement
+TXN000254,2026-05-13,18:41,V1006,Apex Data Systems,Community Development Financial Institutions Fund,ACH,14815.99,Recurring services / goods disbursement
+TXN000006,2026-05-14,08:24,V1006,Apex Data Systems,Bureau of the Fiscal Service,Wire,39662.3,Recurring services / goods disbursement
+TXN000395,2026-05-14,08:33,V1007,Harbor Logistics Inc,Office of Financial Stability,ACH,1929.34,Recurring services / goods disbursement
+TXN000233,2026-05-14,12:45,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Check,7624.47,Recurring services / goods disbursement
+TXN000606,2026-05-14,14:08,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,ACH,24559.3,Recurring services / goods disbursement
+TXN000501,2026-05-14,16:43,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,ACH,11926.24,Recurring services / goods disbursement
+TXN000176,2026-05-14,17:14,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,ACH,31684.14,Recurring services / goods disbursement
+TXN000022,2026-05-14,17:19,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Check,7591.29,Recurring services / goods disbursement
+TXN000100,2026-05-14,18:49,V1004,National Office Supply Co,Community Development Financial Institutions Fund,Check,1440.78,Recurring services / goods disbursement
+TXN000120,2026-05-15,08:25,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,ACH,1942.55,Recurring services / goods disbursement
+TXN000629,2026-05-15,08:31,V902,Northgate Rapid Solutions LLC,Office of Financial Stability,Check,35986.22,New vendor onboarding disbursement
+TXN000018,2026-05-15,09:40,V1001,Meridian Facilities Group,Office of Financial Stability,Check,6437.45,Recurring services / goods disbursement
+TXN000021,2026-05-15,11:27,V1006,Apex Data Systems,Office of Financial Stability,Wire,10113.59,Recurring services / goods disbursement
+TXN000445,2026-05-15,11:42,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,Check,2135.24,Recurring services / goods disbursement
+TXN000024,2026-05-15,12:56,V1008,Federal Print & Mail,Community Development Financial Institutions Fund,ACH,644.81,Recurring services / goods disbursement
+TXN000173,2026-05-15,14:04,V1008,Federal Print & Mail,Office of Financial Stability,ACH,2650.35,Recurring services / goods disbursement
+TXN000495,2026-05-15,14:39,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,ACH,2375.3,Recurring services / goods disbursement
+TXN000189,2026-05-15,17:55,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,ACH,15668.71,Recurring services / goods disbursement
+TXN000147,2026-05-18,08:17,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,Wire,6671.24,Recurring services / goods disbursement
+TXN000332,2026-05-18,08:39,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,ACH,7939.66,Recurring services / goods disbursement
+TXN000266,2026-05-18,08:45,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,ACH,28204.92,Recurring services / goods disbursement
+TXN000451,2026-05-18,09:20,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Check,6428.89,Recurring services / goods disbursement
+TXN000249,2026-05-18,11:03,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,Wire,4772.7,Recurring services / goods disbursement
+TXN000049,2026-05-18,11:07,V1002,Capitol IT Services LLC,Bureau of the Fiscal Service,Check,15745.13,Recurring services / goods disbursement
+TXN000479,2026-05-18,13:49,V1005,Sterling Security Solutions,Office of Financial Stability,Check,13943.52,Recurring services / goods disbursement
+TXN000079,2026-05-18,14:42,V1002,Capitol IT Services LLC,Financial Crimes Enforcement Network,Check,16336.33,Recurring services / goods disbursement
+TXN000586,2026-05-18,15:56,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,ACH,12648.48,Recurring services / goods disbursement
+TXN000361,2026-05-18,17:55,V1009,Cornerstone Legal Advisors,Community Development Financial Institutions Fund,ACH,12747.95,Recurring services / goods disbursement
+TXN000075,2026-05-19,07:02,V1004,National Office Supply Co,Office of Financial Stability,Wire,1461.42,Recurring services / goods disbursement
+TXN000385,2026-05-19,07:16,V1004,National Office Supply Co,Financial Crimes Enforcement Network,Check,1400.37,Recurring services / goods disbursement
+TXN000571,2026-05-19,08:48,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,ACH,6745.31,Recurring services / goods disbursement
+TXN000160,2026-05-19,10:33,V1007,Harbor Logistics Inc,Alcohol and Tobacco Tax and Trade Bureau,Check,3790.84,Recurring services / goods disbursement
+TXN000613,2026-05-19,12:55,V1010,Pioneer Facilities Maintenance,Bureau of the Fiscal Service,Wire,55038.72,One-time program disbursement
+TXN000154,2026-05-19,13:55,V1008,Federal Print & Mail,Office of Financial Stability,ACH,1673.73,Recurring services / goods disbursement
+TXN000539,2026-05-19,16:12,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,Check,20816.86,Recurring services / goods disbursement
+TXN000208,2026-05-19,16:42,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,ACH,21384.36,Recurring services / goods disbursement
+TXN000321,2026-05-19,17:15,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,Check,4803.18,Recurring services / goods disbursement
+TXN000512,2026-05-19,18:17,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,ACH,9082.75,Recurring services / goods disbursement
+TXN000465,2026-05-19,18:20,V1004,National Office Supply Co,Office of Financial Stability,Check,1046.13,Recurring services / goods disbursement
+TXN000404,2026-05-19,18:52,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,ACH,3496.38,Recurring services / goods disbursement
+TXN000633,2026-05-20,08:49,V1008,Federal Print & Mail,Bureau of the Fiscal Service,Wire,9853.0,Program disbursement
+TXN000211,2026-05-20,09:48,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,ACH,7772.03,Recurring services / goods disbursement
+TXN000121,2026-05-20,09:51,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,Wire,4651.46,Recurring services / goods disbursement
+TXN000386,2026-05-20,10:21,V1007,Harbor Logistics Inc,Office of Financial Stability,Wire,3365.2,Recurring services / goods disbursement
+TXN000492,2026-05-20,11:05,V1009,Cornerstone Legal Advisors,Community Development Financial Institutions Fund,ACH,19737.4,Recurring services / goods disbursement
+TXN000149,2026-05-20,14:34,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,Wire,1331.1,Recurring services / goods disbursement
+TXN000493,2026-05-20,15:20,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,Check,1505.16,Recurring services / goods disbursement
+TXN000558,2026-05-21,07:06,V1007,Harbor Logistics Inc,Community Development Financial Institutions Fund,ACH,4902.71,Recurring services / goods disbursement
+TXN000042,2026-05-21,07:32,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,ACH,10438.95,Recurring services / goods disbursement
+TXN000536,2026-05-21,08:15,V1010,Pioneer Facilities Maintenance,Office of Financial Stability,Wire,4668.45,Recurring services / goods disbursement
+TXN000210,2026-05-21,12:19,V1006,Apex Data Systems,Community Development Financial Institutions Fund,Check,30867.83,Recurring services / goods disbursement
+TXN000023,2026-05-21,15:49,V1006,Apex Data Systems,Financial Crimes Enforcement Network,ACH,30963.06,Recurring services / goods disbursement
+TXN000556,2026-05-21,18:04,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,ACH,2484.21,Recurring services / goods disbursement
+TXN000005,2026-05-21,18:27,V1001,Meridian Facilities Group,Community Development Financial Institutions Fund,Wire,5024.04,Recurring services / goods disbursement
+TXN000622,2026-05-22,03:01,V1004,National Office Supply Co,Office of Financial Stability,ACH,1681.62,Recurring services / goods disbursement
+TXN000223,2026-05-22,08:32,V1006,Apex Data Systems,Bureau of the Fiscal Service,Check,27848.32,Recurring services / goods disbursement
+TXN000454,2026-05-22,08:36,V1008,Federal Print & Mail,Bureau of the Fiscal Service,ACH,1230.22,Recurring services / goods disbursement
+TXN000161,2026-05-22,09:05,V1003,BlueRiver Consulting,Financial Crimes Enforcement Network,Wire,42886.97,Recurring services / goods disbursement
+TXN000389,2026-05-22,09:46,V1006,Apex Data Systems,Financial Crimes Enforcement Network,Wire,16441.67,Recurring services / goods disbursement
+TXN000461,2026-05-22,16:08,V1007,Harbor Logistics Inc,Office of Financial Stability,ACH,4260.67,Recurring services / goods disbursement
+TXN000432,2026-05-22,17:39,V1006,Apex Data Systems,Bureau of the Fiscal Service,Check,44426.29,Recurring services / goods disbursement
+TXN000245,2026-05-22,18:28,V1010,Pioneer Facilities Maintenance,Bureau of the Fiscal Service,Wire,3821.5,Recurring services / goods disbursement
+TXN000322,2026-05-25,07:28,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,Wire,10120.04,Recurring services / goods disbursement
+TXN000618,2026-05-25,07:43,V1009,Cornerstone Legal Advisors,Office of Financial Stability,ACH,150494.86,One-time program disbursement
+TXN000305,2026-05-25,09:31,V1006,Apex Data Systems,Financial Crimes Enforcement Network,Wire,27456.59,Recurring services / goods disbursement
+TXN000343,2026-05-25,09:39,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Wire,10122.25,Recurring services / goods disbursement
+TXN000040,2026-05-25,11:13,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,Check,48108.17,Recurring services / goods disbursement
+TXN000116,2026-05-25,11:14,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,ACH,12231.75,Recurring services / goods disbursement
+TXN000114,2026-05-25,12:07,V1004,National Office Supply Co,Financial Crimes Enforcement Network,Check,651.78,Recurring services / goods disbursement
+TXN000603,2026-05-25,12:46,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,Check,5566.85,Recurring services / goods disbursement
+TXN000070,2026-05-25,13:42,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,Check,24710.83,Recurring services / goods disbursement
+TXN000267,2026-05-26,07:20,V1001,Meridian Facilities Group,Community Development Financial Institutions Fund,Check,6310.59,Recurring services / goods disbursement
+TXN000283,2026-05-26,08:08,V1008,Federal Print & Mail,Bureau of the Fiscal Service,Wire,931.64,Recurring services / goods disbursement
+TXN000525,2026-05-26,13:23,V1004,National Office Supply Co,Bureau of the Fiscal Service,Check,1413.63,Recurring services / goods disbursement
+TXN000353,2026-05-26,16:34,V1009,Cornerstone Legal Advisors,Office of Financial Stability,ACH,15890.47,Recurring services / goods disbursement
+TXN000573,2026-05-26,17:09,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,Wire,2415.05,Recurring services / goods disbursement
+TXN000526,2026-05-26,17:28,V1002,Capitol IT Services LLC,Office of Financial Stability,ACH,20671.09,Recurring services / goods disbursement
+TXN000615,2026-05-27,09:36,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,ACH,112811.09,One-time program disbursement
+TXN000376,2026-05-27,12:41,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,Wire,12777.07,Recurring services / goods disbursement
+TXN000604,2026-05-27,12:46,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,5566.85,Recurring services / goods disbursement
+TXN000187,2026-05-27,16:13,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Wire,25261.74,Recurring services / goods disbursement
+TXN000460,2026-05-27,18:37,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,Check,16543.67,Recurring services / goods disbursement
+TXN000482,2026-05-28,08:57,V1008,Federal Print & Mail,Bureau of the Fiscal Service,ACH,2381.11,Recurring services / goods disbursement
+TXN000204,2026-05-28,09:42,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,ACH,26792.77,Recurring services / goods disbursement
+TXN000572,2026-05-28,10:08,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,Wire,18526.58,Recurring services / goods disbursement
+TXN000592,2026-05-28,10:41,V1010,Pioneer Facilities Maintenance,Office of Financial Stability,Check,3033.65,Recurring services / goods disbursement
+TXN000380,2026-05-28,10:47,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Check,9497.73,Recurring services / goods disbursement
+TXN000198,2026-05-28,13:28,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Wire,16117.56,Recurring services / goods disbursement
+TXN000379,2026-05-28,14:13,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,Wire,6785.1,Recurring services / goods disbursement
+TXN000213,2026-05-28,15:07,V1005,Sterling Security Solutions,Community Development Financial Institutions Fund,Wire,6887.12,Recurring services / goods disbursement
+TXN000031,2026-05-28,15:08,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,Check,1681.68,Recurring services / goods disbursement
+TXN000392,2026-05-28,15:29,V1001,Meridian Facilities Group,Community Development Financial Institutions Fund,ACH,7474.53,Recurring services / goods disbursement
+TXN000307,2026-05-28,16:22,V1004,National Office Supply Co,Bureau of the Fiscal Service,ACH,834.58,Recurring services / goods disbursement
+TXN000481,2026-05-28,17:47,V1006,Apex Data Systems,Office of Financial Stability,Wire,31562.66,Recurring services / goods disbursement
+TXN000623,2026-05-28,22:32,V1003,BlueRiver Consulting,Office of Financial Stability,ACH,31496.62,Recurring services / goods disbursement
+TXN000061,2026-05-29,07:42,V1004,National Office Supply Co,Office of Financial Stability,Wire,923.7,Recurring services / goods disbursement
+TXN000144,2026-05-29,08:29,V1002,Capitol IT Services LLC,Bureau of the Fiscal Service,Check,19650.0,Recurring services / goods disbursement
+TXN000060,2026-05-29,10:52,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,Wire,1262.98,Recurring services / goods disbursement
+TXN000594,2026-05-29,11:38,V1001,Meridian Facilities Group,Community Development Financial Institutions Fund,Check,9325.23,Recurring services / goods disbursement
+TXN000374,2026-05-29,11:54,V1008,Federal Print & Mail,Office of Financial Stability,Wire,2786.85,Recurring services / goods disbursement
+TXN000111,2026-05-29,13:44,V1002,Capitol IT Services LLC,Office of Financial Stability,Wire,17295.44,Recurring services / goods disbursement
+TXN000252,2026-05-29,14:56,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,ACH,13808.56,Recurring services / goods disbursement
+TXN000455,2026-05-29,15:18,V1005,Sterling Security Solutions,Office of Financial Stability,Wire,10525.2,Recurring services / goods disbursement
+TXN000537,2026-05-29,16:54,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,Wire,9156.59,Recurring services / goods disbursement
+TXN000333,2026-05-29,17:14,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,ACH,17679.33,Recurring services / goods disbursement
+TXN000013,2026-05-29,17:20,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,ACH,26257.85,Recurring services / goods disbursement
+TXN000549,2026-05-29,17:36,V1006,Apex Data Systems,Bureau of the Fiscal Service,Wire,14922.52,Recurring services / goods disbursement
+TXN000607,2026-05-29,18:55,V1006,Apex Data Systems,Community Development Financial Institutions Fund,Wire,20747.98,Recurring services / goods disbursement
+TXN000608,2026-05-31,18:55,V1006,Apex Data Systems,Financial Crimes Enforcement Network,Wire,20747.98,Recurring services / goods disbursement
+TXN000509,2026-06-01,09:00,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,ACH,13892.95,Recurring services / goods disbursement
+TXN000012,2026-06-01,09:29,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,Wire,29779.99,Recurring services / goods disbursement
+TXN000077,2026-06-01,09:41,V1008,Federal Print & Mail,Bureau of the Fiscal Service,ACH,2446.05,Recurring services / goods disbursement
+TXN000186,2026-06-01,09:50,V1006,Apex Data Systems,Financial Crimes Enforcement Network,ACH,12401.36,Recurring services / goods disbursement
+TXN000095,2026-06-01,10:53,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Check,5007.63,Recurring services / goods disbursement
+TXN000047,2026-06-01,12:18,V1006,Apex Data Systems,Office of Financial Stability,Wire,39181.07,Recurring services / goods disbursement
+TXN000364,2026-06-01,14:22,V1004,National Office Supply Co,Office of Financial Stability,Wire,658.11,Recurring services / goods disbursement
+TXN000146,2026-06-01,14:35,V1008,Federal Print & Mail,Office of Financial Stability,Wire,976.53,Recurring services / goods disbursement
+TXN000106,2026-06-01,14:36,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,Check,1447.47,Recurring services / goods disbursement
+TXN000440,2026-06-01,15:11,V1003,BlueRiver Consulting,Financial Crimes Enforcement Network,ACH,29894.53,Recurring services / goods disbursement
+TXN000484,2026-06-01,15:38,V1002,Capitol IT Services LLC,Financial Crimes Enforcement Network,Check,16506.3,Recurring services / goods disbursement
+TXN000417,2026-06-01,16:33,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Check,16995.37,Recurring services / goods disbursement
+TXN000043,2026-06-01,16:38,V1002,Capitol IT Services LLC,Bureau of the Fiscal Service,Check,9147.77,Recurring services / goods disbursement
+TXN000530,2026-06-01,17:18,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,Wire,6413.89,Recurring services / goods disbursement
+TXN000351,2026-06-01,17:48,V1004,National Office Supply Co,Financial Crimes Enforcement Network,ACH,1298.46,Recurring services / goods disbursement
+TXN000532,2026-06-01,17:51,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,ACH,29777.48,Recurring services / goods disbursement
+TXN000367,2026-06-01,18:02,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,Wire,5442.0,Recurring services / goods disbursement
+TXN000397,2026-06-01,18:14,V1007,Harbor Logistics Inc,Community Development Financial Institutions Fund,Check,4346.64,Recurring services / goods disbursement
+TXN000234,2026-06-01,18:28,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,Check,6970.56,Recurring services / goods disbursement
+TXN000381,2026-06-01,18:38,V1008,Federal Print & Mail,Office of Financial Stability,Wire,2787.82,Recurring services / goods disbursement
+TXN000133,2026-06-02,07:05,V1010,Pioneer Facilities Maintenance,Office of Financial Stability,Check,6179.79,Recurring services / goods disbursement
+TXN000066,2026-06-02,07:45,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,ACH,1287.85,Recurring services / goods disbursement
+TXN000139,2026-06-02,12:07,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,Check,38872.45,Recurring services / goods disbursement
+TXN000396,2026-06-02,12:17,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,ACH,16834.08,Recurring services / goods disbursement
+TXN000163,2026-06-02,17:00,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,Wire,2194.03,Recurring services / goods disbursement
+TXN000428,2026-06-02,17:09,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Wire,6591.72,Recurring services / goods disbursement
+TXN000263,2026-06-02,18:01,V1006,Apex Data Systems,Community Development Financial Institutions Fund,ACH,22068.09,Recurring services / goods disbursement
+TXN000007,2026-06-03,07:46,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,Check,2624.13,Recurring services / goods disbursement
+TXN000520,2026-06-03,08:05,V1008,Federal Print & Mail,Office of Financial Stability,Check,1260.54,Recurring services / goods disbursement
+TXN000490,2026-06-03,10:02,V1002,Capitol IT Services LLC,Bureau of the Fiscal Service,Wire,15092.55,Recurring services / goods disbursement
+TXN000551,2026-06-03,10:15,V1006,Apex Data Systems,Bureau of the Fiscal Service,Wire,18983.03,Recurring services / goods disbursement
+TXN000081,2026-06-03,10:53,V1008,Federal Print & Mail,Community Development Financial Institutions Fund,Check,1711.49,Recurring services / goods disbursement
+TXN000383,2026-06-03,12:32,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Wire,6788.87,Recurring services / goods disbursement
+TXN000459,2026-06-03,12:55,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Wire,8786.04,Recurring services / goods disbursement
+TXN000516,2026-06-03,12:59,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,Check,1880.61,Recurring services / goods disbursement
+TXN000045,2026-06-03,13:08,V1006,Apex Data Systems,Community Development Financial Institutions Fund,Wire,21066.2,Recurring services / goods disbursement
+TXN000345,2026-06-03,13:15,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,Wire,9256.38,Recurring services / goods disbursement
+TXN000634,2026-06-03,14:03,V1004,National Office Supply Co,Office of Financial Stability,ACH,9729.84,Program disbursement
+TXN000630,2026-06-03,15:12,V903,Ironwood Program Services,Community Development Financial Institutions Fund,Check,47536.59,New vendor onboarding disbursement
+TXN000599,2026-06-03,17:45,V1005,Sterling Security Solutions,Community Development Financial Institutions Fund,ACH,7199.43,Recurring services / goods disbursement
+TXN000148,2026-06-04,07:18,V1009,Cornerstone Legal Advisors,Community Development Financial Institutions Fund,Check,21178.39,Recurring services / goods disbursement
+TXN000402,2026-06-04,07:59,V1008,Federal Print & Mail,Bureau of the Fiscal Service,Check,2813.96,Recurring services / goods disbursement
+TXN000014,2026-06-04,08:13,V1006,Apex Data Systems,Financial Crimes Enforcement Network,Check,21013.73,Recurring services / goods disbursement
+TXN000059,2026-06-04,09:50,V1004,National Office Supply Co,Bureau of the Fiscal Service,Wire,1957.12,Recurring services / goods disbursement
+TXN000341,2026-06-04,10:51,V1008,Federal Print & Mail,Bureau of the Fiscal Service,Wire,906.24,Recurring services / goods disbursement
+TXN000418,2026-06-04,11:17,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,ACH,17847.02,Recurring services / goods disbursement
+TXN000581,2026-06-04,12:01,V1008,Federal Print & Mail,Community Development Financial Institutions Fund,Wire,1277.37,Recurring services / goods disbursement
+TXN000105,2026-06-04,12:54,V1010,Pioneer Facilities Maintenance,Office of Financial Stability,ACH,3394.64,Recurring services / goods disbursement
+TXN000303,2026-06-04,14:15,V1002,Capitol IT Services LLC,Office of Financial Stability,ACH,8708.47,Recurring services / goods disbursement
+TXN000251,2026-06-04,14:57,V1003,BlueRiver Consulting,Financial Crimes Enforcement Network,ACH,52397.1,Recurring services / goods disbursement
+TXN000011,2026-06-04,18:59,V1004,National Office Supply Co,Bureau of the Fiscal Service,Check,1506.46,Recurring services / goods disbursement
+TXN000117,2026-06-05,07:03,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,Wire,23645.77,Recurring services / goods disbursement
+TXN000167,2026-06-05,07:36,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,Check,4031.65,Recurring services / goods disbursement
+TXN000294,2026-06-05,09:40,V1009,Cornerstone Legal Advisors,Community Development Financial Institutions Fund,Check,20203.04,Recurring services / goods disbursement
+TXN000529,2026-06-05,11:28,V1003,BlueRiver Consulting,Office of Financial Stability,ACH,42634.8,Recurring services / goods disbursement
+TXN000062,2026-06-05,12:41,V1002,Capitol IT Services LLC,Financial Crimes Enforcement Network,Wire,17513.25,Recurring services / goods disbursement
+TXN000588,2026-06-05,12:52,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,Check,1054.19,Recurring services / goods disbursement
+TXN000579,2026-06-05,13:09,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,Check,7808.31,Recurring services / goods disbursement
+TXN000093,2026-06-05,13:16,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,Wire,1273.66,Recurring services / goods disbursement
+TXN000419,2026-06-05,13:19,V1007,Harbor Logistics Inc,Alcohol and Tobacco Tax and Trade Bureau,ACH,2572.27,Recurring services / goods disbursement
+TXN000082,2026-06-05,14:04,V1004,National Office Supply Co,Community Development Financial Institutions Fund,ACH,816.26,Recurring services / goods disbursement
+TXN000327,2026-06-05,15:19,V1004,National Office Supply Co,Office of Financial Stability,Wire,1765.23,Recurring services / goods disbursement
+TXN000312,2026-06-05,16:43,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,ACH,11701.93,Recurring services / goods disbursement
+TXN000108,2026-06-05,16:44,V1005,Sterling Security Solutions,Community Development Financial Institutions Fund,Check,6081.21,Recurring services / goods disbursement
+TXN000467,2026-06-05,18:59,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,Wire,21303.56,Recurring services / goods disbursement
+TXN000421,2026-06-08,07:25,V1003,BlueRiver Consulting,Community Development Financial Institutions Fund,Check,32095.05,Recurring services / goods disbursement
+TXN000165,2026-06-08,10:24,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,ACH,7897.65,Recurring services / goods disbursement
+TXN000071,2026-06-08,13:35,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,Wire,27911.12,Recurring services / goods disbursement
+TXN000087,2026-06-08,13:54,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,Check,36163.05,Recurring services / goods disbursement
+TXN000596,2026-06-08,17:33,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,Wire,1961.22,Recurring services / goods disbursement
+TXN000511,2026-06-09,08:13,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,ACH,2795.3,Recurring services / goods disbursement
+TXN000098,2026-06-09,08:37,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,Wire,40910.85,Recurring services / goods disbursement
+TXN000619,2026-06-09,09:06,V1006,Apex Data Systems,Financial Crimes Enforcement Network,Wire,294039.09,One-time program disbursement
+TXN000437,2026-06-09,12:29,V1003,BlueRiver Consulting,Office of Financial Stability,Check,36731.67,Recurring services / goods disbursement
+TXN000229,2026-06-09,14:28,V1006,Apex Data Systems,Bureau of the Fiscal Service,ACH,22905.82,Recurring services / goods disbursement
+TXN000130,2026-06-09,16:47,V1003,BlueRiver Consulting,Financial Crimes Enforcement Network,Wire,34761.91,Recurring services / goods disbursement
+TXN000069,2026-06-09,17:26,V1009,Cornerstone Legal Advisors,Community Development Financial Institutions Fund,Wire,23641.38,Recurring services / goods disbursement
+TXN000494,2026-06-09,18:27,V1002,Capitol IT Services LLC,Office of Financial Stability,ACH,11422.72,Recurring services / goods disbursement
+TXN000041,2026-06-10,07:03,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,Wire,6865.11,Recurring services / goods disbursement
+TXN000448,2026-06-10,08:15,V1003,BlueRiver Consulting,Community Development Financial Institutions Fund,ACH,23237.0,Recurring services / goods disbursement
+TXN000316,2026-06-10,09:25,V1010,Pioneer Facilities Maintenance,Financial Crimes Enforcement Network,Check,6213.01,Recurring services / goods disbursement
+TXN000550,2026-06-10,09:40,V1002,Capitol IT Services LLC,Bureau of the Fiscal Service,Check,17380.34,Recurring services / goods disbursement
+TXN000384,2026-06-10,10:23,V1008,Federal Print & Mail,Community Development Financial Institutions Fund,Wire,614.29,Recurring services / goods disbursement
+TXN000555,2026-06-10,11:06,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Wire,5101.56,Recurring services / goods disbursement
+TXN000504,2026-06-10,11:52,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,Check,2616.67,Recurring services / goods disbursement
+TXN000517,2026-06-10,14:17,V1006,Apex Data Systems,Office of Financial Stability,ACH,43024.41,Recurring services / goods disbursement
+TXN000369,2026-06-10,16:38,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,3508.82,Recurring services / goods disbursement
+TXN000280,2026-06-10,17:17,V1006,Apex Data Systems,Office of Financial Stability,ACH,10906.97,Recurring services / goods disbursement
+TXN000068,2026-06-10,17:54,V1006,Apex Data Systems,Bureau of the Fiscal Service,Check,41501.64,Recurring services / goods disbursement
+TXN000216,2026-06-11,08:00,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Check,9445.24,Recurring services / goods disbursement
+TXN000545,2026-06-11,09:10,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Check,13685.3,Recurring services / goods disbursement
+TXN000220,2026-06-11,09:51,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,Wire,8609.74,Recurring services / goods disbursement
+TXN000382,2026-06-11,11:24,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,Check,22623.15,Recurring services / goods disbursement
+TXN000336,2026-06-11,11:41,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,ACH,11218.39,Recurring services / goods disbursement
+TXN000583,2026-06-11,11:46,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,Check,2113.89,Recurring services / goods disbursement
+TXN000534,2026-06-11,13:17,V1009,Cornerstone Legal Advisors,Office of Financial Stability,ACH,15696.43,Recurring services / goods disbursement
+TXN000177,2026-06-11,16:14,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,Check,26300.96,Recurring services / goods disbursement
+TXN000063,2026-06-12,07:07,V1009,Cornerstone Legal Advisors,Community Development Financial Institutions Fund,ACH,21192.38,Recurring services / goods disbursement
+TXN000074,2026-06-12,08:52,V1010,Pioneer Facilities Maintenance,Office of Financial Stability,Check,3552.1,Recurring services / goods disbursement
+TXN000137,2026-06-12,12:42,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,ACH,2453.25,Recurring services / goods disbursement
+TXN000113,2026-06-12,12:44,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,Wire,15439.08,Recurring services / goods disbursement
+TXN000433,2026-06-12,13:06,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,ACH,2183.21,Recurring services / goods disbursement
+TXN000202,2026-06-12,17:07,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,Wire,6368.04,Recurring services / goods disbursement
+TXN000627,2026-06-13,09:42,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,Wire,7500.83,Recurring services / goods disbursement
+TXN000621,2026-06-13,18:08,V1009,Cornerstone Legal Advisors,Community Development Financial Institutions Fund,Wire,16544.27,Recurring services / goods disbursement
+TXN000056,2026-06-15,10:43,V1001,Meridian Facilities Group,Office of Financial Stability,Check,4744.81,Recurring services / goods disbursement
+TXN000522,2026-06-15,13:32,V1004,National Office Supply Co,Bureau of the Fiscal Service,Check,867.8,Recurring services / goods disbursement
+TXN000166,2026-06-15,16:18,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,6889.72,Recurring services / goods disbursement
+TXN000241,2026-06-16,07:23,V1007,Harbor Logistics Inc,Community Development Financial Institutions Fund,ACH,4814.44,Recurring services / goods disbursement
+TXN000310,2026-06-16,07:25,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,Check,3334.9,Recurring services / goods disbursement
+TXN000183,2026-06-16,08:43,V1004,National Office Supply Co,Community Development Financial Institutions Fund,Check,2013.22,Recurring services / goods disbursement
+TXN000174,2026-06-16,08:50,V1007,Harbor Logistics Inc,Alcohol and Tobacco Tax and Trade Bureau,ACH,2204.94,Recurring services / goods disbursement
+TXN000425,2026-06-16,08:59,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,ACH,10737.82,Recurring services / goods disbursement
+TXN000017,2026-06-16,10:08,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,Wire,1545.46,Recurring services / goods disbursement
+TXN000488,2026-06-16,12:08,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,Check,6430.58,Recurring services / goods disbursement
+TXN000235,2026-06-16,12:58,V1003,BlueRiver Consulting,Community Development Financial Institutions Fund,Wire,33394.62,Recurring services / goods disbursement
+TXN000278,2026-06-16,13:36,V1006,Apex Data Systems,Bureau of the Fiscal Service,Check,15370.34,Recurring services / goods disbursement
+TXN000286,2026-06-16,15:14,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,ACH,50642.96,Recurring services / goods disbursement
+TXN000276,2026-06-16,15:51,V1007,Harbor Logistics Inc,Office of Financial Stability,ACH,1742.56,Recurring services / goods disbursement
+TXN000457,2026-06-16,15:52,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,Check,18268.7,Recurring services / goods disbursement
+TXN000635,2026-06-16,17:20,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,ACH,9827.37,Program disbursement
+TXN000585,2026-06-17,07:32,V1009,Cornerstone Legal Advisors,Office of Financial Stability,ACH,15533.58,Recurring services / goods disbursement
+TXN000205,2026-06-17,08:48,V1006,Apex Data Systems,Community Development Financial Institutions Fund,Check,17915.57,Recurring services / goods disbursement
+TXN000097,2026-06-17,09:38,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Check,11746.86,Recurring services / goods disbursement
+TXN000200,2026-06-17,09:43,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,ACH,6729.8,Recurring services / goods disbursement
+TXN000507,2026-06-17,10:18,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,Wire,2348.94,Recurring services / goods disbursement
+TXN000253,2026-06-17,10:24,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,Wire,2053.25,Recurring services / goods disbursement
+TXN000279,2026-06-17,12:28,V1008,Federal Print & Mail,Bureau of the Fiscal Service,Check,844.24,Recurring services / goods disbursement
+TXN000313,2026-06-17,12:35,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,ACH,10786.81,Recurring services / goods disbursement
+TXN000318,2026-06-17,12:43,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Wire,7293.62,Recurring services / goods disbursement
+TXN000565,2026-06-17,13:23,V1003,BlueRiver Consulting,Office of Financial Stability,Wire,17007.76,Recurring services / goods disbursement
+TXN000360,2026-06-17,13:28,V1007,Harbor Logistics Inc,Alcohol and Tobacco Tax and Trade Bureau,Wire,1504.95,Recurring services / goods disbursement
+TXN000302,2026-06-17,15:35,V1006,Apex Data Systems,Bureau of the Fiscal Service,Wire,18460.83,Recurring services / goods disbursement
+TXN000349,2026-06-17,16:14,V1005,Sterling Security Solutions,Office of Financial Stability,ACH,9825.46,Recurring services / goods disbursement
+TXN000180,2026-06-17,17:47,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,Wire,1968.35,Recurring services / goods disbursement
+TXN000175,2026-06-17,17:47,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,Check,13334.36,Recurring services / goods disbursement
+TXN000544,2026-06-17,18:42,V1002,Capitol IT Services LLC,Alcohol and Tobacco Tax and Trade Bureau,Check,9414.45,Recurring services / goods disbursement
+TXN000624,2026-06-18,02:49,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,Check,4457.51,Recurring services / goods disbursement
+TXN000010,2026-06-18,11:29,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,ACH,13182.53,Recurring services / goods disbursement
+TXN000547,2026-06-18,11:46,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,2888.54,Recurring services / goods disbursement
+TXN000092,2026-06-18,12:13,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Wire,8700.0,Recurring services / goods disbursement
+TXN000156,2026-06-18,12:40,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,Check,9753.88,Recurring services / goods disbursement
+TXN000150,2026-06-18,14:59,V1009,Cornerstone Legal Advisors,Community Development Financial Institutions Fund,ACH,29596.27,Recurring services / goods disbursement
+TXN000248,2026-06-18,15:33,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,ACH,12535.13,Recurring services / goods disbursement
+TXN000217,2026-06-18,15:45,V1003,BlueRiver Consulting,Office of Financial Stability,Check,40142.56,Recurring services / goods disbursement
+TXN000416,2026-06-19,07:18,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,Wire,37270.92,Recurring services / goods disbursement
+TXN000478,2026-06-19,08:46,V1008,Federal Print & Mail,Bureau of the Fiscal Service,ACH,1283.38,Recurring services / goods disbursement
+TXN000237,2026-06-19,11:16,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,ACH,16000.6,Recurring services / goods disbursement
+TXN000412,2026-06-19,12:23,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,ACH,15233.79,Recurring services / goods disbursement
+TXN000483,2026-06-19,12:27,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,3238.93,Recurring services / goods disbursement
+TXN000089,2026-06-19,12:42,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,Check,5074.74,Recurring services / goods disbursement
+TXN000019,2026-06-19,13:38,V1002,Capitol IT Services LLC,Alcohol and Tobacco Tax and Trade Bureau,Check,11519.8,Recurring services / goods disbursement
+TXN000449,2026-06-19,13:38,V1003,BlueRiver Consulting,Office of Financial Stability,Check,32266.95,Recurring services / goods disbursement
+TXN000405,2026-06-19,17:57,V1010,Pioneer Facilities Maintenance,Financial Crimes Enforcement Network,Wire,3919.23,Recurring services / goods disbursement
+TXN000058,2026-06-22,07:11,V1003,BlueRiver Consulting,Community Development Financial Institutions Fund,Wire,51100.58,Recurring services / goods disbursement
+TXN000464,2026-06-22,07:17,V1003,BlueRiver Consulting,Office of Financial Stability,Check,53973.55,Recurring services / goods disbursement
+TXN000519,2026-06-22,08:34,V1006,Apex Data Systems,Community Development Financial Institutions Fund,ACH,25817.1,Recurring services / goods disbursement
+TXN000373,2026-06-22,09:19,V1007,Harbor Logistics Inc,Alcohol and Tobacco Tax and Trade Bureau,ACH,4066.78,Recurring services / goods disbursement
+TXN000032,2026-06-22,10:06,V1008,Federal Print & Mail,Bureau of the Fiscal Service,Check,1577.63,Recurring services / goods disbursement
+TXN000578,2026-06-22,11:24,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,Check,31313.68,Recurring services / goods disbursement
+TXN000375,2026-06-22,13:35,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,ACH,17156.8,Recurring services / goods disbursement
+TXN000289,2026-06-22,13:52,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,ACH,11631.86,Recurring services / goods disbursement
+TXN000033,2026-06-22,14:55,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,Check,3683.13,Recurring services / goods disbursement
+TXN000553,2026-06-22,14:56,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,Wire,39571.08,Recurring services / goods disbursement
+TXN000323,2026-06-22,15:49,V1004,National Office Supply Co,Financial Crimes Enforcement Network,Wire,1958.35,Recurring services / goods disbursement
+TXN000057,2026-06-22,16:47,V1009,Cornerstone Legal Advisors,Office of Financial Stability,ACH,27156.72,Recurring services / goods disbursement
+TXN000453,2026-06-22,17:31,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,Check,2599.73,Recurring services / goods disbursement
+TXN000335,2026-06-22,17:59,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,Wire,44274.24,Recurring services / goods disbursement
+TXN000513,2026-06-22,18:57,V1009,Cornerstone Legal Advisors,Community Development Financial Institutions Fund,Wire,29465.65,Recurring services / goods disbursement
+TXN000085,2026-06-23,07:13,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,Wire,2762.1,Recurring services / goods disbursement
+TXN000576,2026-06-23,08:26,V1009,Cornerstone Legal Advisors,Office of Financial Stability,ACH,20898.47,Recurring services / goods disbursement
+TXN000171,2026-06-23,09:12,V1006,Apex Data Systems,Office of Financial Stability,Check,40676.12,Recurring services / goods disbursement
+TXN000004,2026-06-23,10:28,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,Wire,25998.04,Recurring services / goods disbursement
+TXN000304,2026-06-23,10:55,V1007,Harbor Logistics Inc,Office of Financial Stability,Wire,4748.26,Recurring services / goods disbursement
+TXN000491,2026-06-23,13:44,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,ACH,22451.28,Recurring services / goods disbursement
+TXN000122,2026-06-23,16:38,V1004,National Office Supply Co,Financial Crimes Enforcement Network,ACH,1773.82,Recurring services / goods disbursement
+TXN000298,2026-06-23,16:40,V1010,Pioneer Facilities Maintenance,Bureau of the Fiscal Service,Wire,6444.98,Recurring services / goods disbursement
+TXN000181,2026-06-23,17:06,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,Check,33365.21,Recurring services / goods disbursement
+TXN000076,2026-06-23,17:36,V1002,Capitol IT Services LLC,Office of Financial Stability,Check,17748.96,Recurring services / goods disbursement
+TXN000199,2026-06-23,18:06,V1008,Federal Print & Mail,Community Development Financial Institutions Fund,Wire,1281.31,Recurring services / goods disbursement
+TXN000260,2026-06-24,07:39,V1003,BlueRiver Consulting,Community Development Financial Institutions Fund,ACH,40679.87,Recurring services / goods disbursement
+TXN000458,2026-06-24,08:47,V1004,National Office Supply Co,Office of Financial Stability,Wire,1962.14,Recurring services / goods disbursement
+TXN000027,2026-06-24,10:59,V1010,Pioneer Facilities Maintenance,Financial Crimes Enforcement Network,Check,5449.34,Recurring services / goods disbursement
+TXN000595,2026-06-24,13:54,V1005,Sterling Security Solutions,Community Development Financial Institutions Fund,Wire,8015.99,Recurring services / goods disbursement
+TXN000080,2026-06-24,15:28,V1008,Federal Print & Mail,Office of Financial Stability,Check,2653.74,Recurring services / goods disbursement
+TXN000219,2026-06-24,16:25,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,Wire,2575.87,Recurring services / goods disbursement
+TXN000039,2026-06-24,18:46,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,Check,2296.02,Recurring services / goods disbursement
+TXN000055,2026-06-25,09:02,V1003,BlueRiver Consulting,Community Development Financial Institutions Fund,Wire,55454.17,Recurring services / goods disbursement
+TXN000309,2026-06-25,09:56,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,Check,13120.89,Recurring services / goods disbursement
+TXN000275,2026-06-25,11:40,V1006,Apex Data Systems,Bureau of the Fiscal Service,ACH,33491.44,Recurring services / goods disbursement
+TXN000414,2026-06-25,14:35,V1003,BlueRiver Consulting,Financial Crimes Enforcement Network,Check,33361.99,Recurring services / goods disbursement
+TXN000065,2026-06-25,16:32,V1006,Apex Data Systems,Bureau of the Fiscal Service,Wire,41482.67,Recurring services / goods disbursement
+TXN000616,2026-06-25,17:27,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,Wire,396814.44,One-time program disbursement
+TXN000400,2026-06-25,17:50,V1008,Federal Print & Mail,Community Development Financial Institutions Fund,Check,2943.32,Recurring services / goods disbursement
+TXN000136,2026-06-25,17:52,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,ACH,4350.05,Recurring services / goods disbursement
+TXN000277,2026-06-26,07:08,V1010,Pioneer Facilities Maintenance,Bureau of the Fiscal Service,ACH,5892.58,Recurring services / goods disbursement
+TXN000132,2026-06-26,08:38,V1008,Federal Print & Mail,Bureau of the Fiscal Service,Wire,2336.33,Recurring services / goods disbursement
+TXN000354,2026-06-26,08:43,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Check,21246.1,Recurring services / goods disbursement
+TXN000584,2026-06-26,10:58,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,Check,1220.47,Recurring services / goods disbursement
+TXN000123,2026-06-26,11:55,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,Wire,2360.44,Recurring services / goods disbursement
+TXN000119,2026-06-26,12:11,V1008,Federal Print & Mail,Bureau of the Fiscal Service,Wire,2852.66,Recurring services / goods disbursement
+TXN000422,2026-06-26,12:27,V1006,Apex Data Systems,Financial Crimes Enforcement Network,ACH,20515.23,Recurring services / goods disbursement
+TXN000164,2026-06-26,12:37,V1003,BlueRiver Consulting,Community Development Financial Institutions Fund,Check,58291.31,Recurring services / goods disbursement
+TXN000413,2026-06-26,12:48,V1005,Sterling Security Solutions,Community Development Financial Institutions Fund,ACH,7060.06,Recurring services / goods disbursement
+TXN000270,2026-06-26,13:21,V1007,Harbor Logistics Inc,Office of Financial Stability,Wire,3829.86,Recurring services / goods disbursement
+TXN000472,2026-06-26,14:00,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,ACH,59806.23,Recurring services / goods disbursement
+TXN000036,2026-06-26,15:06,V1004,National Office Supply Co,Bureau of the Fiscal Service,Check,2198.64,Recurring services / goods disbursement
+TXN000053,2026-06-26,15:45,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,Check,15435.14,Recurring services / goods disbursement
+TXN000246,2026-06-26,16:18,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,ACH,1314.62,Recurring services / goods disbursement
+TXN000212,2026-06-26,17:27,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Check,9536.35,Recurring services / goods disbursement
+TXN000142,2026-06-26,18:31,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,ACH,58791.61,Recurring services / goods disbursement
+TXN000441,2026-06-29,10:51,V1007,Harbor Logistics Inc,Alcohol and Tobacco Tax and Trade Bureau,Check,1900.92,Recurring services / goods disbursement
+TXN000566,2026-06-29,11:14,V1008,Federal Print & Mail,Community Development Financial Institutions Fund,Check,654.1,Recurring services / goods disbursement
+TXN000506,2026-06-29,11:49,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,Wire,9209.4,Recurring services / goods disbursement
+TXN000508,2026-06-29,12:37,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,ACH,1691.68,Recurring services / goods disbursement
+TXN000226,2026-06-29,16:48,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,Wire,2202.83,Recurring services / goods disbursement
+TXN000435,2026-06-29,17:37,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,ACH,2510.88,Recurring services / goods disbursement
+TXN000363,2026-06-29,17:46,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Wire,10255.47,Recurring services / goods disbursement
+TXN000356,2026-06-29,17:51,V1001,Meridian Facilities Group,Community Development Financial Institutions Fund,Check,4315.38,Recurring services / goods disbursement
+TXN000609,2026-06-30,07:55,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,ACH,2085.99,Recurring services / goods disbursement
+TXN000247,2026-06-30,10:23,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Wire,9693.44,Recurring services / goods disbursement
+TXN000268,2026-06-30,11:02,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Wire,16496.46,Recurring services / goods disbursement
+TXN000228,2026-06-30,14:40,V1008,Federal Print & Mail,Community Development Financial Institutions Fund,Wire,1978.55,Recurring services / goods disbursement
+TXN000112,2026-06-30,15:33,V1006,Apex Data Systems,Community Development Financial Institutions Fund,Wire,44882.1,Recurring services / goods disbursement
+TXN000135,2026-06-30,15:41,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,Wire,23167.01,Recurring services / goods disbursement
+TXN000590,2026-06-30,16:35,V1003,BlueRiver Consulting,Community Development Financial Institutions Fund,Wire,22358.11,Recurring services / goods disbursement
+TXN000096,2026-06-30,17:07,V1003,BlueRiver Consulting,Financial Crimes Enforcement Network,ACH,35926.53,Recurring services / goods disbursement
+TXN000073,2026-06-30,18:10,V1004,National Office Supply Co,Bureau of the Fiscal Service,Wire,1279.36,Recurring services / goods disbursement
+TXN000255,2026-06-30,18:53,V1005,Sterling Security Solutions,Office of Financial Stability,Check,9752.88,Recurring services / goods disbursement
+TXN000541,2026-07-01,07:21,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,ACH,25935.35,Recurring services / goods disbursement
+TXN000610,2026-07-01,07:55,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,ACH,2085.99,Recurring services / goods disbursement
+TXN000476,2026-07-01,08:08,V1004,National Office Supply Co,Financial Crimes Enforcement Network,ACH,1286.94,Recurring services / goods disbursement
+TXN000436,2026-07-01,08:18,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,ACH,4815.17,Recurring services / goods disbursement
+TXN000598,2026-07-01,08:21,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,Check,12551.92,Recurring services / goods disbursement
+TXN000562,2026-07-01,10:06,V1010,Pioneer Facilities Maintenance,Bureau of the Fiscal Service,ACH,2854.16,Recurring services / goods disbursement
+TXN000331,2026-07-01,10:12,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Wire,13464.19,Recurring services / goods disbursement
+TXN000115,2026-07-01,11:46,V1004,National Office Supply Co,Financial Crimes Enforcement Network,Check,1433.9,Recurring services / goods disbursement
+TXN000194,2026-07-01,13:27,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Wire,7975.73,Recurring services / goods disbursement
+TXN000533,2026-07-01,15:50,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,Wire,41943.7,Recurring services / goods disbursement
+TXN000429,2026-07-01,16:25,V1010,Pioneer Facilities Maintenance,Financial Crimes Enforcement Network,Check,6617.48,Recurring services / goods disbursement
+TXN000554,2026-07-01,16:41,V1002,Capitol IT Services LLC,Office of Financial Stability,ACH,14318.02,Recurring services / goods disbursement
+TXN000393,2026-07-01,17:31,V1010,Pioneer Facilities Maintenance,Bureau of the Fiscal Service,ACH,4661.06,Recurring services / goods disbursement
+TXN000557,2026-07-01,18:01,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,Check,2824.99,Recurring services / goods disbursement
+TXN000452,2026-07-02,09:12,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,Check,27690.33,Recurring services / goods disbursement
+TXN000242,2026-07-02,10:14,V1006,Apex Data Systems,Office of Financial Stability,ACH,12700.78,Recurring services / goods disbursement
+TXN000409,2026-07-02,10:22,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,Wire,1579.62,Recurring services / goods disbursement
+TXN000051,2026-07-02,11:57,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,ACH,11074.28,Recurring services / goods disbursement
+TXN000214,2026-07-02,15:42,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,3102.59,Recurring services / goods disbursement
+TXN000564,2026-07-02,17:16,V1008,Federal Print & Mail,Bureau of the Fiscal Service,Check,1860.32,Recurring services / goods disbursement
+TXN000450,2026-07-02,17:34,V1003,BlueRiver Consulting,Office of Financial Stability,Check,22508.95,Recurring services / goods disbursement
+TXN000306,2026-07-03,07:05,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Check,9657.85,Recurring services / goods disbursement
+TXN000372,2026-07-03,07:22,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,Check,15693.42,Recurring services / goods disbursement
+TXN000287,2026-07-03,07:23,V1004,National Office Supply Co,Financial Crimes Enforcement Network,Check,1000.93,Recurring services / goods disbursement
+TXN000528,2026-07-03,07:24,V1007,Harbor Logistics Inc,Alcohol and Tobacco Tax and Trade Bureau,ACH,2544.98,Recurring services / goods disbursement
+TXN000179,2026-07-03,08:06,V1005,Sterling Security Solutions,Office of Financial Stability,Check,7085.31,Recurring services / goods disbursement
+TXN000107,2026-07-03,12:11,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,ACH,6080.57,Recurring services / goods disbursement
+TXN000281,2026-07-03,15:24,V1003,BlueRiver Consulting,Financial Crimes Enforcement Network,ACH,26779.95,Recurring services / goods disbursement
+TXN000387,2026-07-03,15:41,V1004,National Office Supply Co,Community Development Financial Institutions Fund,Wire,1750.39,Recurring services / goods disbursement
+TXN000162,2026-07-03,16:09,V1004,National Office Supply Co,Office of Financial Stability,Wire,1512.02,Recurring services / goods disbursement
+TXN000141,2026-07-03,17:28,V1006,Apex Data Systems,Bureau of the Fiscal Service,ACH,19346.97,Recurring services / goods disbursement
+TXN000487,2026-07-03,17:38,V1004,National Office Supply Co,Bureau of the Fiscal Service,Check,1988.58,Recurring services / goods disbursement
+TXN000292,2026-07-06,09:19,V1001,Meridian Facilities Group,Office of Financial Stability,ACH,5910.1,Recurring services / goods disbursement
+TXN000271,2026-07-06,11:51,V1006,Apex Data Systems,Bureau of the Fiscal Service,Check,24857.49,Recurring services / goods disbursement
+TXN000293,2026-07-06,11:54,V1004,National Office Supply Co,Bureau of the Fiscal Service,Wire,672.97,Recurring services / goods disbursement
+TXN000044,2026-07-06,12:59,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,5348.63,Recurring services / goods disbursement
+TXN000315,2026-07-06,14:09,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,Check,849.45,Recurring services / goods disbursement
+TXN000575,2026-07-06,14:58,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,Check,10984.46,Recurring services / goods disbursement
+TXN000434,2026-07-06,15:37,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,ACH,18361.35,Recurring services / goods disbursement
+TXN000497,2026-07-06,15:50,V1006,Apex Data Systems,Community Development Financial Institutions Fund,ACH,23015.43,Recurring services / goods disbursement
+TXN000401,2026-07-07,07:14,V1002,Capitol IT Services LLC,Office of Financial Stability,Check,20425.76,Recurring services / goods disbursement
+TXN000222,2026-07-07,08:25,V1007,Harbor Logistics Inc,Community Development Financial Institutions Fund,Check,2490.15,Recurring services / goods disbursement
+TXN000191,2026-07-07,08:47,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,Wire,2903.45,Recurring services / goods disbursement
+TXN000362,2026-07-07,09:46,V1009,Cornerstone Legal Advisors,Office of Financial Stability,ACH,24879.77,Recurring services / goods disbursement
+TXN000611,2026-07-07,11:26,V1007,Harbor Logistics Inc,Office of Financial Stability,ACH,1405.44,Recurring services / goods disbursement
+TXN000325,2026-07-07,13:20,V1008,Federal Print & Mail,Office of Financial Stability,Wire,2780.31,Recurring services / goods disbursement
+TXN000172,2026-07-07,15:58,V1006,Apex Data Systems,Community Development Financial Institutions Fund,ACH,18993.95,Recurring services / goods disbursement
+TXN000480,2026-07-07,16:00,V1003,BlueRiver Consulting,Financial Crimes Enforcement Network,Check,22385.24,Recurring services / goods disbursement
+TXN000394,2026-07-07,18:17,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,Wire,1265.14,Recurring services / goods disbursement
+TXN000090,2026-07-08,07:58,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,Check,1910.98,Recurring services / goods disbursement
+TXN000612,2026-07-08,11:26,V1007,Harbor Logistics Inc,Community Development Financial Institutions Fund,Wire,1405.44,Recurring services / goods disbursement
+TXN000462,2026-07-08,11:38,V1010,Pioneer Facilities Maintenance,Financial Crimes Enforcement Network,ACH,3618.27,Recurring services / goods disbursement
+TXN000016,2026-07-08,11:47,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,Wire,27854.28,Recurring services / goods disbursement
+TXN000469,2026-07-08,13:13,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,ACH,27315.02,Recurring services / goods disbursement
+TXN000035,2026-07-08,14:08,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,ACH,829.24,Recurring services / goods disbursement
+TXN000317,2026-07-08,14:45,V1010,Pioneer Facilities Maintenance,Financial Crimes Enforcement Network,Wire,4374.46,Recurring services / goods disbursement
+TXN000337,2026-07-08,18:46,V1004,National Office Supply Co,Bureau of the Fiscal Service,ACH,1093.98,Recurring services / goods disbursement
+TXN000377,2026-07-08,18:53,V1002,Capitol IT Services LLC,Office of Financial Stability,ACH,11758.46,Recurring services / goods disbursement
+TXN000430,2026-07-09,07:50,V1007,Harbor Logistics Inc,Community Development Financial Institutions Fund,Check,4602.91,Recurring services / goods disbursement
+TXN000083,2026-07-09,08:08,V1006,Apex Data Systems,Office of Financial Stability,ACH,23406.24,Recurring services / goods disbursement
+TXN000002,2026-07-09,08:37,V1002,Capitol IT Services LLC,Alcohol and Tobacco Tax and Trade Bureau,ACH,8417.16,Recurring services / goods disbursement
+TXN000326,2026-07-09,12:43,V1006,Apex Data Systems,Community Development Financial Institutions Fund,Check,26946.3,Recurring services / goods disbursement
+TXN000243,2026-07-09,18:56,V1002,Capitol IT Services LLC,Financial Crimes Enforcement Network,ACH,17267.01,Recurring services / goods disbursement
+TXN000262,2026-07-10,07:24,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,ACH,22349.09,Recurring services / goods disbursement
+TXN000568,2026-07-10,07:53,V1010,Pioneer Facilities Maintenance,Alcohol and Tobacco Tax and Trade Bureau,Check,4093.16,Recurring services / goods disbursement
+TXN000311,2026-07-10,11:04,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,Check,25762.4,Recurring services / goods disbursement
+TXN000399,2026-07-10,14:03,V1007,Harbor Logistics Inc,Bureau of the Fiscal Service,Check,1851.26,Recurring services / goods disbursement
+TXN000456,2026-07-10,15:07,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,ACH,1169.72,Recurring services / goods disbursement
+TXN000285,2026-07-10,15:18,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,ACH,17965.33,Recurring services / goods disbursement
+TXN000470,2026-07-10,16:08,V1006,Apex Data Systems,Financial Crimes Enforcement Network,Wire,37590.63,Recurring services / goods disbursement
+TXN000291,2026-07-10,17:37,V1003,BlueRiver Consulting,Office of Financial Stability,ACH,34467.82,Recurring services / goods disbursement
+TXN000231,2026-07-10,18:57,V1010,Pioneer Facilities Maintenance,Bureau of the Fiscal Service,Wire,6545.25,Recurring services / goods disbursement
+TXN000626,2026-07-11,19:09,V1002,Capitol IT Services LLC,Office of Financial Stability,Check,17600.36,Recurring services / goods disbursement
+TXN000444,2026-07-13,08:51,V1002,Capitol IT Services LLC,Financial Crimes Enforcement Network,ACH,13121.1,Recurring services / goods disbursement
+TXN000463,2026-07-13,11:54,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Check,12521.45,Recurring services / goods disbursement
+TXN000151,2026-07-13,13:14,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,ACH,904.54,Recurring services / goods disbursement
+TXN000466,2026-07-13,17:17,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,Wire,35339.63,Recurring services / goods disbursement
+TXN000329,2026-07-13,17:34,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Wire,12547.02,Recurring services / goods disbursement
+TXN000468,2026-07-14,07:55,V1006,Apex Data Systems,Bureau of the Fiscal Service,Check,44025.26,Recurring services / goods disbursement
+TXN000518,2026-07-14,08:09,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,ACH,35230.5,Recurring services / goods disbursement
+TXN000514,2026-07-14,08:32,V1002,Capitol IT Services LLC,Office of Financial Stability,Check,19479.48,Recurring services / goods disbursement
+TXN000170,2026-07-14,12:46,V1001,Meridian Facilities Group,Office of Financial Stability,ACH,9021.03,Recurring services / goods disbursement
+TXN000320,2026-07-14,14:10,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,Check,8022.27,Recurring services / goods disbursement
+TXN000072,2026-07-14,16:41,V1007,Harbor Logistics Inc,Community Development Financial Institutions Fund,Wire,2878.79,Recurring services / goods disbursement
+TXN000346,2026-07-14,18:36,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,Wire,11229.47,Recurring services / goods disbursement
+TXN000264,2026-07-14,18:48,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,ACH,8620.7,Recurring services / goods disbursement
+TXN000134,2026-07-15,07:48,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,Check,2201.16,Recurring services / goods disbursement
+TXN000192,2026-07-15,08:28,V1006,Apex Data Systems,Financial Crimes Enforcement Network,ACH,43089.55,Recurring services / goods disbursement
+TXN000190,2026-07-15,12:01,V1004,National Office Supply Co,Office of Financial Stability,Wire,399.56,Recurring services / goods disbursement
+TXN000538,2026-07-15,12:51,V1003,BlueRiver Consulting,Community Development Financial Institutions Fund,Check,16269.3,Recurring services / goods disbursement
+TXN000153,2026-07-15,12:55,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,Wire,19487.03,Recurring services / goods disbursement
+TXN000029,2026-07-15,15:14,V1004,National Office Supply Co,Financial Crimes Enforcement Network,ACH,313.66,Recurring services / goods disbursement
+TXN000515,2026-07-15,16:03,V1002,Capitol IT Services LLC,Alcohol and Tobacco Tax and Trade Bureau,Check,21499.06,Recurring services / goods disbursement
+TXN000371,2026-07-15,18:58,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Check,23253.75,Recurring services / goods disbursement
+TXN000236,2026-07-16,07:50,V1006,Apex Data Systems,Community Development Financial Institutions Fund,ACH,21539.18,Recurring services / goods disbursement
+TXN000244,2026-07-16,13:09,V1010,Pioneer Facilities Maintenance,Office of Financial Stability,ACH,6156.73,Recurring services / goods disbursement
+TXN000446,2026-07-16,13:39,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,Check,13998.12,Recurring services / goods disbursement
+TXN000408,2026-07-16,13:49,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,5170.61,Recurring services / goods disbursement
+TXN000319,2026-07-16,14:16,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,Check,5405.98,Recurring services / goods disbursement
+TXN000259,2026-07-16,15:01,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,Check,1104.85,Recurring services / goods disbursement
+TXN000431,2026-07-16,17:58,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,ACH,25148.04,Recurring services / goods disbursement
+TXN000239,2026-07-16,18:05,V1007,Harbor Logistics Inc,Community Development Financial Institutions Fund,Check,2631.38,Recurring services / goods disbursement
+TXN000003,2026-07-17,07:35,V1004,National Office Supply Co,Office of Financial Stability,Check,1534.78,Recurring services / goods disbursement
+TXN000378,2026-07-17,07:55,V1010,Pioneer Facilities Maintenance,Bureau of the Fiscal Service,ACH,6023.25,Recurring services / goods disbursement
+TXN000301,2026-07-17,09:20,V1004,National Office Supply Co,Community Development Financial Institutions Fund,Check,2177.24,Recurring services / goods disbursement
+TXN000272,2026-07-17,09:34,V1007,Harbor Logistics Inc,Community Development Financial Institutions Fund,Wire,1589.87,Recurring services / goods disbursement
+TXN000225,2026-07-17,09:48,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,ACH,57808.15,Recurring services / goods disbursement
+TXN000088,2026-07-17,10:31,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Wire,18152.56,Recurring services / goods disbursement
+TXN000050,2026-07-17,10:45,V1005,Sterling Security Solutions,Community Development Financial Institutions Fund,ACH,11499.98,Recurring services / goods disbursement
+TXN000168,2026-07-17,12:14,V1005,Sterling Security Solutions,Office of Financial Stability,Check,8005.01,Recurring services / goods disbursement
+TXN000350,2026-07-17,12:26,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,Wire,2393.38,Recurring services / goods disbursement
+TXN000296,2026-07-17,12:53,V1010,Pioneer Facilities Maintenance,Financial Crimes Enforcement Network,ACH,6126.18,Recurring services / goods disbursement
+TXN000197,2026-07-17,13:06,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,Check,22669.25,Recurring services / goods disbursement
+TXN000257,2026-07-17,15:27,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,Wire,13990.44,Recurring services / goods disbursement
+TXN000169,2026-07-20,08:57,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,Wire,50487.47,Recurring services / goods disbursement
+TXN000614,2026-07-20,09:20,V1006,Apex Data Systems,Bureau of the Fiscal Service,Wire,339209.81,One-time program disbursement
+TXN000420,2026-07-20,14:38,V1004,National Office Supply Co,Financial Crimes Enforcement Network,ACH,1169.94,Recurring services / goods disbursement
+TXN000128,2026-07-20,16:42,V1005,Sterling Security Solutions,Office of Financial Stability,Wire,6918.21,Recurring services / goods disbursement
+TXN000157,2026-07-20,17:58,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,ACH,18454.73,Recurring services / goods disbursement
+TXN000118,2026-07-21,14:06,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,Check,27795.27,Recurring services / goods disbursement
+TXN000103,2026-07-21,14:45,V1006,Apex Data Systems,Office of Financial Stability,Wire,16164.79,Recurring services / goods disbursement
+TXN000196,2026-07-21,16:35,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,Wire,6973.14,Recurring services / goods disbursement
+TXN000510,2026-07-21,18:56,V1006,Apex Data Systems,Bureau of the Fiscal Service,Wire,10051.17,Recurring services / goods disbursement
+TXN000390,2026-07-22,07:33,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,ACH,28848.95,Recurring services / goods disbursement
+TXN000486,2026-07-22,07:50,V1007,Harbor Logistics Inc,Office of Financial Stability,Wire,2666.37,Recurring services / goods disbursement
+TXN000290,2026-07-22,08:28,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,Check,28107.6,Recurring services / goods disbursement
+TXN000230,2026-07-22,08:39,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Check,9075.86,Recurring services / goods disbursement
+TXN000224,2026-07-22,09:15,V1006,Apex Data Systems,Bureau of the Fiscal Service,ACH,18958.89,Recurring services / goods disbursement
+TXN000295,2026-07-22,09:37,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,ACH,12595.21,Recurring services / goods disbursement
+TXN000265,2026-07-22,09:53,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,Check,19049.15,Recurring services / goods disbursement
+TXN000129,2026-07-22,09:58,V1004,National Office Supply Co,Community Development Financial Institutions Fund,ACH,435.68,Recurring services / goods disbursement
+TXN000299,2026-07-22,11:30,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Check,17527.94,Recurring services / goods disbursement
+TXN000342,2026-07-22,11:45,V1008,Federal Print & Mail,Office of Financial Stability,ACH,2341.54,Recurring services / goods disbursement
+TXN000102,2026-07-22,12:00,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,Wire,11216.32,Recurring services / goods disbursement
+TXN000015,2026-07-22,14:09,V1008,Federal Print & Mail,Community Development Financial Institutions Fund,ACH,1116.57,Recurring services / goods disbursement
+TXN000206,2026-07-22,15:01,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,Check,4351.95,Recurring services / goods disbursement
+TXN000340,2026-07-22,15:33,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,ACH,39787.09,Recurring services / goods disbursement
+TXN000227,2026-07-22,17:39,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,Check,3580.69,Recurring services / goods disbursement
+TXN000388,2026-07-22,18:31,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,ACH,2331.93,Recurring services / goods disbursement
+TXN000232,2026-07-23,10:20,V1010,Pioneer Facilities Maintenance,Financial Crimes Enforcement Network,Wire,4506.84,Recurring services / goods disbursement
+TXN000473,2026-07-23,11:10,V1003,BlueRiver Consulting,Community Development Financial Institutions Fund,ACH,44456.46,Recurring services / goods disbursement
+TXN000104,2026-07-23,11:39,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,Wire,18762.35,Recurring services / goods disbursement
+TXN000269,2026-07-23,12:17,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Wire,6515.84,Recurring services / goods disbursement
+TXN000028,2026-07-23,12:28,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Wire,6968.03,Recurring services / goods disbursement
+TXN000178,2026-07-23,13:07,V1005,Sterling Security Solutions,Office of Financial Stability,ACH,13570.09,Recurring services / goods disbursement
+TXN000601,2026-07-23,14:18,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,Wire,5574.96,Recurring services / goods disbursement
+TXN000048,2026-07-23,15:00,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Wire,13454.05,Recurring services / goods disbursement
+TXN000308,2026-07-23,17:30,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,Check,2040.89,Recurring services / goods disbursement
+TXN000398,2026-07-23,17:48,V1002,Capitol IT Services LLC,Bureau of the Fiscal Service,ACH,13673.9,Recurring services / goods disbursement
+TXN000403,2026-07-24,07:11,V1009,Cornerstone Legal Advisors,Community Development Financial Institutions Fund,ACH,29190.85,Recurring services / goods disbursement
+TXN000125,2026-07-24,08:10,V1005,Sterling Security Solutions,Office of Financial Stability,ACH,10415.94,Recurring services / goods disbursement
+TXN000238,2026-07-24,09:58,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,Wire,6838.48,Recurring services / goods disbursement
+TXN000485,2026-07-24,11:13,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,Check,6900.47,Recurring services / goods disbursement
+TXN000273,2026-07-24,11:19,V1006,Apex Data Systems,Alcohol and Tobacco Tax and Trade Bureau,Check,35118.2,Recurring services / goods disbursement
+TXN000597,2026-07-24,12:35,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,Check,5698.19,Recurring services / goods disbursement
+TXN000410,2026-07-24,13:05,V1010,Pioneer Facilities Maintenance,Financial Crimes Enforcement Network,Wire,5990.28,Recurring services / goods disbursement
+TXN000138,2026-07-24,13:52,V1008,Federal Print & Mail,Financial Crimes Enforcement Network,ACH,1637.06,Recurring services / goods disbursement
+TXN000026,2026-07-24,14:35,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Wire,20081.15,Recurring services / goods disbursement
+TXN000370,2026-07-24,15:14,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,Wire,27381.93,Recurring services / goods disbursement
+TXN000193,2026-07-24,15:19,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,Check,9309.34,Recurring services / goods disbursement
+TXN000140,2026-07-24,15:29,V1001,Meridian Facilities Group,Alcohol and Tobacco Tax and Trade Bureau,ACH,5194.19,Recurring services / goods disbursement
+TXN000625,2026-07-25,08:03,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Wire,6554.87,Recurring services / goods disbursement
+TXN000602,2026-07-25,14:18,V1001,Meridian Facilities Group,Bureau of the Fiscal Service,Check,5574.96,Recurring services / goods disbursement
+TXN000589,2026-07-27,07:15,V1002,Capitol IT Services LLC,Community Development Financial Institutions Fund,Wire,16316.61,Recurring services / goods disbursement
+TXN000593,2026-07-27,07:30,V1007,Harbor Logistics Inc,Office of Financial Stability,Check,1858.16,Recurring services / goods disbursement
+TXN000489,2026-07-27,09:48,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,ACH,9350.48,Recurring services / goods disbursement
+TXN000569,2026-07-27,14:36,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Wire,15275.89,Recurring services / goods disbursement
+TXN000426,2026-07-27,15:01,V1009,Cornerstone Legal Advisors,Alcohol and Tobacco Tax and Trade Bureau,Check,13402.62,Recurring services / goods disbursement
+TXN000020,2026-07-27,18:07,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,Wire,25140.57,Recurring services / goods disbursement
+TXN000067,2026-07-27,18:47,V1009,Cornerstone Legal Advisors,Office of Financial Stability,Wire,18057.25,Recurring services / goods disbursement
+TXN000300,2026-07-28,07:10,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,Wire,1710.63,Recurring services / goods disbursement
+TXN000591,2026-07-28,08:18,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,Wire,6397.21,Recurring services / goods disbursement
+TXN000427,2026-07-28,08:52,V1005,Sterling Security Solutions,Alcohol and Tobacco Tax and Trade Bureau,Check,9994.43,Recurring services / goods disbursement
+TXN000054,2026-07-28,09:34,V1002,Capitol IT Services LLC,Bureau of the Fiscal Service,Wire,16155.13,Recurring services / goods disbursement
+TXN000423,2026-07-28,10:30,V1010,Pioneer Facilities Maintenance,Community Development Financial Institutions Fund,ACH,6822.87,Recurring services / goods disbursement
+TXN000131,2026-07-28,11:44,V1008,Federal Print & Mail,Alcohol and Tobacco Tax and Trade Bureau,Wire,1751.18,Recurring services / goods disbursement
+TXN000155,2026-07-28,13:41,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,Wire,12818.73,Recurring services / goods disbursement
+TXN000274,2026-07-28,14:22,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,ACH,47706.65,Recurring services / goods disbursement
+TXN000110,2026-07-28,14:41,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,Wire,1806.57,Recurring services / goods disbursement
+TXN000424,2026-07-28,17:31,V1006,Apex Data Systems,Financial Crimes Enforcement Network,ACH,21406.02,Recurring services / goods disbursement
+TXN000406,2026-07-28,18:05,V1003,BlueRiver Consulting,Financial Crimes Enforcement Network,Check,58844.55,Recurring services / goods disbursement
+TXN000328,2026-07-28,18:31,V1004,National Office Supply Co,Community Development Financial Institutions Fund,Wire,962.73,Recurring services / goods disbursement
+TXN000086,2026-07-29,07:54,V1010,Pioneer Facilities Maintenance,Financial Crimes Enforcement Network,Wire,4384.9,Recurring services / goods disbursement
+TXN000358,2026-07-29,08:34,V1006,Apex Data Systems,Bureau of the Fiscal Service,ACH,44514.8,Recurring services / goods disbursement
+TXN000628,2026-07-29,09:26,V901,Kestrel Advisory Partners,Bureau of the Fiscal Service,Check,64532.14,New vendor onboarding disbursement
+TXN000475,2026-07-29,10:27,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,Check,6761.47,Recurring services / goods disbursement
+TXN000477,2026-07-29,12:52,V1008,Federal Print & Mail,Bureau of the Fiscal Service,Wire,2235.08,Recurring services / goods disbursement
+TXN000078,2026-07-29,15:29,V1004,National Office Supply Co,Bureau of the Fiscal Service,Check,773.48,Recurring services / goods disbursement
+TXN000559,2026-07-29,15:46,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,Wire,3710.27,Recurring services / goods disbursement
+TXN000548,2026-07-29,16:25,V1001,Meridian Facilities Group,Financial Crimes Enforcement Network,ACH,5165.03,Recurring services / goods disbursement
+TXN000582,2026-07-29,17:06,V1008,Federal Print & Mail,Office of Financial Stability,ACH,1251.2,Recurring services / goods disbursement
+TXN000240,2026-07-29,18:43,V1006,Apex Data Systems,Financial Crimes Enforcement Network,ACH,32610.87,Recurring services / goods disbursement
+TXN000439,2026-07-30,08:01,V1001,Meridian Facilities Group,Community Development Financial Institutions Fund,Check,4779.62,Recurring services / goods disbursement
+TXN000143,2026-07-30,09:19,V1010,Pioneer Facilities Maintenance,Financial Crimes Enforcement Network,ACH,4761.26,Recurring services / goods disbursement
+TXN000324,2026-07-30,09:33,V1001,Meridian Facilities Group,Office of Financial Stability,Check,5922.76,Recurring services / goods disbursement
+TXN000496,2026-07-30,09:44,V1003,BlueRiver Consulting,Bureau of the Fiscal Service,ACH,37338.58,Recurring services / goods disbursement
+TXN000543,2026-07-30,09:49,V1010,Pioneer Facilities Maintenance,Bureau of the Fiscal Service,Check,6303.35,Recurring services / goods disbursement
+TXN000084,2026-07-30,10:04,V1003,BlueRiver Consulting,Alcohol and Tobacco Tax and Trade Bureau,Wire,29889.66,Recurring services / goods disbursement
+TXN000127,2026-07-30,11:44,V1004,National Office Supply Co,Alcohol and Tobacco Tax and Trade Bureau,ACH,1606.03,Recurring services / goods disbursement
+TXN000348,2026-07-30,11:44,V1009,Cornerstone Legal Advisors,Bureau of the Fiscal Service,Check,28238.74,Recurring services / goods disbursement
+TXN000447,2026-07-30,11:58,V1006,Apex Data Systems,Financial Crimes Enforcement Network,Check,12966.32,Recurring services / goods disbursement
+TXN000352,2026-07-30,12:04,V1009,Cornerstone Legal Advisors,Financial Crimes Enforcement Network,ACH,10296.92,Recurring services / goods disbursement
+TXN000152,2026-07-30,13:24,V1008,Federal Print & Mail,Office of Financial Stability,Wire,2912.06,Recurring services / goods disbursement
+TXN000282,2026-07-30,14:13,V1005,Sterling Security Solutions,Financial Crimes Enforcement Network,Wire,11551.85,Recurring services / goods disbursement
+TXN000546,2026-07-30,15:44,V1006,Apex Data Systems,Financial Crimes Enforcement Network,Wire,17813.3,Recurring services / goods disbursement
+TXN000570,2026-07-31,07:32,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,Check,4241.71,Recurring services / goods disbursement
+TXN000542,2026-07-31,09:58,V1006,Apex Data Systems,Community Development Financial Institutions Fund,ACH,10766.95,Recurring services / goods disbursement
+TXN000099,2026-07-31,10:04,V1007,Harbor Logistics Inc,Financial Crimes Enforcement Network,Check,4356.17,Recurring services / goods disbursement
+TXN000145,2026-07-31,11:32,V1008,Federal Print & Mail,Community Development Financial Institutions Fund,Wire,2586.81,Recurring services / goods disbursement
+TXN000250,2026-07-31,15:54,V1002,Capitol IT Services LLC,Bureau of the Fiscal Service,Wire,9174.25,Recurring services / goods disbursement
+TXN000499,2026-07-31,16:40,V1005,Sterling Security Solutions,Bureau of the Fiscal Service,Wire,9641.58,Recurring services / goods disbursement

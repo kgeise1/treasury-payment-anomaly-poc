@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Treasury Payment Anomaly &amp; Fraud Triage — POC</title>
+<link rel="stylesheet" href="styles.css" />
+<link rel="icon" href="data:," />
+</head>
+<body class="viz-root">
+
+<header class="app-header">
+  <p class="eyebrow">Proof of concept · Not connected to any production payment system</p>
+  <h1>Treasury Payment Anomaly &amp; Fraud Triage</h1>
+  <p class="sub">Upload a payment/disbursement CSV (or load the bundled sample) and this tool statistically
+    flags transactions worth a closer look — duplicate payments, outlier amounts, off-hours processing,
+    brand-new vendors with large first payments, and amounts sitting just under a reporting threshold —
+    each with a plain-English explanation. All analysis runs locally in your browser; nothing is uploaded
+    to a server.</p>
+</header>
+
+<main>
+  <section class="controls">
+    <button id="load-sample" class="btn" type="button">Load sample dataset</button>
+    <span style="color:var(--text-muted); font-size:13px;">or</span>
+    <label class="btn secondary" for="csv-file" style="cursor:pointer;">
+      Upload your own CSV
+      <input id="csv-file" type="file" accept=".csv" style="display:none;" />
+    </label>
+    <span id="status-text" class="status-text">No data loaded yet.</span>
+  </section>
+
+  <section id="results-section" class="hidden">
+    <div id="kpi-row" class="kpi-row"></div>
+
+    <div id="chart-container"></div>
+
+    <div class="chart-card">
+      <h3 class="panel-title">Flagged transactions (highest risk first)</h3>
+      <div style="overflow-x:auto;">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Risk</th>
+              <th>Txn ID</th>
+              <th>Date</th>
+              <th>Vendor</th>
+              <th class="amount">Amount</th>
+              <th>Department</th>
+              <th>Why it was flagged</th>
+            </tr>
+          </thead>
+          <tbody id="flagged-table-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="app-footer">
+  Proof of concept for evaluation purposes. Detection thresholds are illustrative and would need calibration
+  against real historical data before any production use. See README for methodology and assumptions.
+</footer>
+
+<script src="src/csv.js"></script>
+<script src="src/detection.js"></script>
+<script src="src/narrative.js"></script>
+<script src="src/chart.js"></script>
+<script src="src/app.js"></script>
+</body>
+</html>
