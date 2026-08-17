@@ -162,8 +162,22 @@ pattern `https://<github-username>.github.io/<repo-name>/`.
 ## Testing
 
 ```bash
-npm install        # installs Playwright for the smoke test only
+npm install              # installs Playwright for the smoke test only
 python3 -m http.server 8000 &
-npm test            # loads the page, runs the sample dataset, checks the
-                     # results render with no console errors
+npm test                  # loads the page, runs the sample dataset, checks the
+                           # results render with no console errors
+npm run test:security     # feeds the app a hostile CSV (XSS payload, a
+                           # __proto__ header, an out-of-range amount, a
+                           # missing required field) and asserts every one
+                           # is neutralized -- see SECURITY.md
 ```
+
+See [`SECURITY.md`](SECURITY.md) for the security review of this prototype:
+what was found and fixed, what's deliberately out of scope for a static
+demo, and why SQL injection specifically doesn't apply to this
+architecture. See [`COMPLIANCE.md`](COMPLIANCE.md) for the risk &
+compliance review — relevant federal frameworks (OMB A-123, OMB M-25-21 AI
+governance, the GAO Green Book), the segregation-of-duties reviewer
+disposition workflow added to the UI, and the governance gaps that are
+correctly out of scope for a static demo but would need closing before any
+real deployment.

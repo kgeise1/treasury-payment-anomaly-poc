@@ -198,6 +198,39 @@ table.data-table td.amount, table.data-table th.amount { font-variant-numeric: t
 .badge-critical .dot { background: var(--status-critical); }
 
 .narrative { color: var(--text-secondary); font-size: 12.5px; max-width: 380px; }
+
+.disposition-disclaimer {
+  font-size: 12px;
+  color: var(--text-secondary);
+  background: var(--page-plane);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin: 4px 0 14px;
+  max-width: 760px;
+}
+.disposition-select {
+  font-size: 12px;
+  padding: 4px 6px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--surface-1);
+  color: var(--text-primary);
+}
+.disposition-note {
+  display: block;
+  margin-top: 6px;
+  font-size: 12px;
+  padding: 4px 6px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+  background: var(--surface-1);
+  color: var(--text-primary);
+  width: 160px;
+}
+.disposition-select.status-confirmed { border-color: var(--status-critical); }
+.disposition-select.status-false_positive { border-color: var(--status-good); }
+.disposition-select.status-escalated { border-color: var(--status-warning); }
 .reason-tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
 .reason-tag {
   font-size: 10.5px; background: var(--page-plane); border: 1px solid var(--border);

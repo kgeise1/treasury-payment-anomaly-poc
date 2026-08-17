@@ -6,6 +6,14 @@
 <title>Treasury Payment Anomaly &amp; Fraud Triage — POC</title>
 <link rel="stylesheet" href="styles.css" />
 <link rel="icon" href="data:," />
+<!-- Defense-in-depth: even though all rendered fields are HTML-escaped in app.js,
+     this locks the page to same-origin scripts/styles only and blocks inline
+     script execution, framing, and any accidental external resource loads. -->
+<!-- Note: frame-ancestors/X-Frame-Options can't be set via a <meta> tag (only via
+     real HTTP response headers), so clickjacking protection isn't enforceable on
+     GitHub Pages as-is -- see README Security Review for what a real host adds. -->
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; base-uri 'none'; form-action 'none';" />
+<meta http-equiv="X-Content-Type-Options" content="nosniff" />
 </head>
 <body class="viz-root">
 
@@ -36,7 +44,17 @@
     <div id="chart-container"></div>
 
     <div class="chart-card">
-      <h3 class="panel-title">Flagged transactions (highest risk first)</h3>
+      <div class="chart-head">
+        <h3 class="panel-title" style="margin:0;">Flagged transactions (highest risk first)</h3>
+        <button id="export-log" class="btn secondary" type="button" style="font-size:12px;">Export review log (CSV)</button>
+      </div>
+      <p class="disposition-disclaimer">
+        <strong>Reviewer disposition below is illustrative only.</strong> This prototype has no backend and no
+        login, so nothing here is saved, authenticated, or enforced — it demonstrates the shape of a
+        segregation-of-duties workflow (analyst flags → reviewer dispositions → decision is recorded), not a
+        working access-control system. A production version would persist this to an auditable system of
+        record, tied to real authenticated identities. See COMPLIANCE.md.
+      </p>
       <div style="overflow-x:auto;">
         <table class="data-table">
           <thead>
@@ -48,6 +66,8 @@
               <th class="amount">Amount</th>
               <th>Department</th>
               <th>Why it was flagged</th>
+              <th>Disposition</th>
+              <th>Reviewer / notes</th>
             </tr>
           </thead>
           <tbody id="flagged-table-body"></tbody>

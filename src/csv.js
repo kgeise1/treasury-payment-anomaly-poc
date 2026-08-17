@@ -43,9 +43,25 @@ const CSVParser = (() => {
     const filtered = rows.filter((r) => !(r.length === 1 && r[0] === ''));
     if (filtered.length === 0) return [];
     const headers = filtered[0].map((h) => h.trim());
+
+    // Defensive-programming note: an untrusted CSV controls its own header
+    // row, so a header literally named "__proto__" (or "constructor" /
+    // "prototype") is attacker-controllable input reaching an object-key
+    // position -- the classic shape of a prototype-pollution bug, even
+    // though a bare `obj[h] = value` on a plain {} would only ever *shadow*
+    // an own property here (JS silently no-ops a __proto__ write when the
+    // value isn't itself an object, so this repo was never exploitable in
+    // practice). Object.create(null) removes the inherited prototype
+    // entirely, so there is nothing to pollute even if this parser is later
+    // reused somewhere that merges/copies these rows less carefully.
+    const DANGEROUS_KEYS = new Set(['__proto__', 'constructor', 'prototype']);
+
     return filtered.slice(1).map((r) => {
-      const obj = {};
-      headers.forEach((h, idx) => { obj[h] = r[idx] !== undefined ? r[idx].trim() : ''; });
+      const obj = Object.create(null);
+      headers.forEach((h, idx) => {
+        const key = DANGEROUS_KEYS.has(h) ? `_${h}` : h;
+        obj[key] = r[idx] !== undefined ? r[idx].trim() : '';
+      });
       return obj;
     });
   }

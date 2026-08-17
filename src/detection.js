@@ -35,6 +35,19 @@
 const AnomalyDetector = (() => {
   const FLAG_THRESHOLD = 35;
 
+  // Sanity bounds on a single payment amount. This isn't just input
+  // validation -- it's a defense against *statistical poisoning* of the
+  // detector itself: because vendor baselines (mean/std) are computed from
+  // whatever rows are in the file, a single adversarial row with an absurd
+  // amount (e.g. a typo'd extra zero, or a deliberately planted outlier)
+  // can blow out a vendor's mean/standard deviation enough to mask other,
+  // genuinely suspicious payments to that same vendor from the z-score
+  // check. Rows outside this range are excluded from analysis entirely
+  // (not just capped) and reported back so the exclusion is visible rather
+  // than silent.
+  const MIN_SANE_AMOUNT = 0.01;
+  const MAX_SANE_AMOUNT = 100000000; // $100M -- generous for a single vendor disbursement
+
   function mean(arr) {
     return arr.reduce((a, b) => a + b, 0) / (arr.length || 1);
   }
@@ -62,14 +75,20 @@ const AnomalyDetector = (() => {
   }
 
   function analyze(rawTransactions) {
-    const txns = rawTransactions
-      .map((r, i) => ({
-        ...r,
-        amount: typeof r.amount === 'number' ? r.amount : parseFloat(String(r.amount).replace(/[^0-9.-]/g, '')),
-        _idx: i,
-        _dt: null,
-      }))
-      .filter((r) => r.transaction_id && !isNaN(r.amount));
+    const parsed = rawTransactions.map((r, i) => ({
+      ...r,
+      amount: typeof r.amount === 'number' ? r.amount : parseFloat(String(r.amount).replace(/[^0-9.-]/g, '')),
+      _idx: i,
+      _dt: null,
+    }));
+
+    let excludedMissingFields = 0;
+    let excludedOutOfRange = 0;
+    const txns = parsed.filter((r) => {
+      if (!r.transaction_id || isNaN(r.amount)) { excludedMissingFields++; return false; }
+      if (!isFinite(r.amount) || r.amount < MIN_SANE_AMOUNT || r.amount > MAX_SANE_AMOUNT) { excludedOutOfRange++; return false; }
+      return true;
+    });
 
     txns.forEach((t) => { t._dt = parseDateTime(t); });
 
@@ -183,6 +202,8 @@ const AnomalyDetector = (() => {
         t.reasonFlags.forEach((f) => { acc[f.code] = (acc[f.code] || 0) + 1; });
         return acc;
       }, {}),
+      excludedMissingFields,
+      excludedOutOfRange,
     };
 
     return { transactions: scored, summary, flagThreshold: FLAG_THRESHOLD };

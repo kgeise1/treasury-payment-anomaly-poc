@@ -5,7 +5,9 @@
   "description": "Client-side POC: statistical anomaly/fraud triage for Treasury vendor payment transactions.",
   "scripts": {
     "start": "python3 -m http.server 8000",
-    "test": "node tests/e2e_smoke_test.js"
+    "test": "node tests/e2e_smoke_test.js",
+    "test:security": "node tests/security_test.js",
+    "test:audit-trail": "node tests/audit_trail_test.js"
   },
   "devDependencies": {
     "playwright": "^1.48.0"
