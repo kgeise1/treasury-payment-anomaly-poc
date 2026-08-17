@@ -5,8 +5,7 @@ records and statistically flags transactions worth a closer look — with a
 plain-English explanation of *why* each one was flagged — for an analyst to
 triage.
 
-**Live demo:** _[add the deployed URL here once published — see Deployment
-below]_
+**Live demo:** [kgeise1.github.io/treasury-payment-anomaly-poc](https://kgeise1.github.io/treasury-payment-anomaly-poc/)
 
 ![Dashboard screenshot](screenshot_dashboard.png)
 
@@ -34,6 +33,12 @@ replacement for existing controls, just a triage aid.
    triggered, and a generated narrative explanation.
 4. A summary panel shows totals, flagged count/amount, and a breakdown of
    which anomaly types are driving the most flags.
+5. Each flagged row has an illustrative reviewer disposition control
+   (Pending / Confirmed / False Positive / Escalated, plus a reviewer name
+   and notes) and an **Export review log (CSV)** button — a sketch of the
+   segregation-of-duties workflow a production version would need, not a
+   real access-control system (nothing is saved server-side; see
+   `COMPLIANCE.md`).
 
 ## Quick start (run locally)
 
@@ -85,7 +90,11 @@ signals, each worth points toward the 0–100 composite risk score:
   before 06:00 / after 21:00. Kept low-weight and non-triggering alone
   because plenty of legitimate batch ACH runs happen overnight.
 
-A transaction is flagged once its combined score reaches **35**. Explanations
+A transaction is flagged once its combined score reaches **35**. Amounts
+outside a $0.01–$100,000,000 sanity range are excluded from analysis
+entirely (not clamped) rather than allowed to distort a vendor's own
+baseline statistics — see `SECURITY.md`'s note on statistical poisoning.
+Explanations
 in `src/narrative.js` are template strings driven by the same reason codes
 and their computed detail (z-score, vendor average, matching transaction ID,
 etc.) — no LLM call, no external API, no key required, so the deployed app
@@ -120,10 +129,12 @@ python3 scripts/generate_sample_data.py --rows 600 --seed 42 --out data/sample_t
   payment distributions. A production rollout would need those weights and
   the $10,000 threshold tuned against real data and stakeholder input, and
   ideally validated/back-tested against known confirmed-fraud cases.
-- **No persistence, auth, or audit trail.** Everything is recomputed
-  client-side on each load; nothing is saved, logged, or sent anywhere. A
-  production version would need role-based access, case management,
-  disposition tracking (confirmed / false positive), and an audit log.
+- **No persistence, auth, or real audit trail.** Everything is recomputed
+  client-side on each load; nothing is saved, logged, or sent anywhere. The
+  reviewer disposition workflow (see above) shows the *shape* of case
+  tracking, but it's session-only and unauthenticated. A production version
+  would need real role-based access and a persisted, tamper-evident audit
+  log — see `COMPLIANCE.md`.
 - **No PII/sensitive-data handling controls** beyond "nothing leaves the
   browser" — a production version touching real payment data would need to
   run under whatever hosting/compliance environment Treasury requires (e.g.
@@ -140,14 +151,19 @@ python3 scripts/generate_sample_data.py --rows 600 --seed 42 --out data/sample_t
 ├── index.html                  Dashboard shell
 ├── styles.css                  Styling (design tokens documented inline)
 ├── src/
-│   ├── app.js                  UI wiring
+│   ├── app.js                  UI wiring, disposition workflow, CSV export
 │   ├── detection.js            Anomaly scoring engine
 │   ├── narrative.js            Rule-based explanation generator
 │   ├── chart.js                Dependency-free SVG bar chart
 │   └── csv.js                  Dependency-free CSV parser
 ├── data/sample_transactions.csv
 ├── scripts/generate_sample_data.py
-├── tests/e2e_smoke_test.js     Playwright smoke test
+├── tests/
+│   ├── e2e_smoke_test.js       Playwright smoke test
+│   ├── security_test.js        Adversarial test (XSS, prototype pollution, etc.)
+│   └── audit_trail_test.js     Adversarial test (CSV formula-injection export)
+├── SECURITY.md                 Security review
+├── COMPLIANCE.md               Risk & compliance review
 └── package.json
 ```
 
@@ -170,6 +186,10 @@ npm run test:security     # feeds the app a hostile CSV (XSS payload, a
                            # __proto__ header, an out-of-range amount, a
                            # missing required field) and asserts every one
                            # is neutralized -- see SECURITY.md
+npm run test:audit-trail  # records a disposition with a spreadsheet-
+                           # formula-injection payload in the notes field,
+                           # exports the CSV, and asserts the payload was
+                           # neutralized in the actual downloaded file
 ```
 
 See [`SECURITY.md`](SECURITY.md) for the security review of this prototype:
