@@ -7,6 +7,8 @@ triage.
 
 **Live demo:** [kgeise1.github.io/treasury-payment-anomaly-poc](https://kgeise1.github.io/treasury-payment-anomaly-poc/)
 
+**Brief documentation of approach, tools used, and assumptions made:** see [`APPROACH.md`](APPROACH.md).
+
 ![Dashboard screenshot](screenshot_dashboard.png)
 
 ## Problem framing
